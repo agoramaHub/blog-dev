@@ -3,11 +3,11 @@ layout: post
 title:  "Catinca Malaimare - Artist Residency Program 2020"
 date:   2020-11-12 13:00:00 0000
 categories: artist-res
-thumbnail: /img/res01/rpg2.png
+thumbnail: /img/1-web-med2.jpeg
 excerpt: Catinca Malaimare brings her performative practice to Agorama's artist residency program 
 ---
 
-![alt-text](/img/res01/rpg2.png)
+![alt-text](/img/1-web-med2.jpeg)
 
 Following on from our collaboration with Offsite Projects artist [Catinca Malaimare](https://www.catincamalaimare.com/) is are second artist in residence for our online residency program. 
 
