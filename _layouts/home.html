@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {% if post.categories contains 'server-co-op' %}
+      <li>
+
+        <!-- Thumbnail insertion -->
+        <div>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" style="height: 280px" />
+          {% else %}
+            <img src="/img/thumbnail/generic.png" style="height: 280px" />
+          {% endif %}
+          </a>
+        </div>
+
+        <!-- Rest of Post listing insertion -->
+        <div>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <span class="glitch">
+              {{ post.title | escape }}
+              </span>
+            </a>
+          </h3>
+          {%- if post.excerpt -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div>
+
+        {% if post != site.categories.server-co-op.last %}
+        <hr style="margin-top: 1rem;">
+        {% endif if %}
+
+      </li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}"><span class="glitch">via RSS</span></a></p>
+  {%- endif -%}
+
+</div>

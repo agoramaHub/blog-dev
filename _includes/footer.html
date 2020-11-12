@@ -1,0 +1,47 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <p>Rebecca's Flat <br>
+            56a Artillery Lane<br>
+            London<br>
+            E1 7LS<br>
+          </p>
+          <!-- <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li> -->
+            {%- if site.email -%}
+            <li><a class="u-email glitch-link" href="mailto:{{ site.email }}"><span class="glitch">{{ site.email }}</span></a></li>
+
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <a class="u-email glitch-link" href="https://home.agorama.org.uk/"><span class="glitch">Agorama</span></a>
+        <p>This website is best experienced with <a class="u-email glitch-link" href="https://beakerbrowser.com/"><span class="glitch">Beaker Browser</span></a> and <a class="u-email glitch-link" href="dat://home.agorama.org.uk/"><span class="glitch">DAT</span></a></p>
+        <a class="glitch-link" href="https://hashbase.io/agoramahub">
+          <span class="glitch">
+          <img src="/assets/hashbase_logo.png" width="30%">
+          </span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

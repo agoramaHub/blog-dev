@@ -1,0 +1,20 @@
+docs_list_title: Navigation Header
+docs:
+
+- title: About
+  url: /about/
+
+- title: Education
+  url: /projects/edu/
+
+- title: Artworks
+  url: /projects/art/
+
+- title: Texts
+  url: http://amapad.bot.nu/
+
+- title: Resources
+  url: /resources/
+
+- title: Contact
+  url: /contact/

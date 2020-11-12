@@ -1,0 +1,152 @@
+---
+layout: default
+---
+
+<!--
+Development for front splash page...
+Roadmap...
+1. Include index.md content... i.e. top header text + image... (new layout)
+2. include minimal latest news blog roll (2 to 3 posts at most)
+3. Include minimal latest workshop/tutorial blog roll (2 to 3 posts at most)
+-->
+
+<!--
+Boiler plate for original slpash page content layout
+-->
+
+<article class="post">
+  
+  {% slider 480 captions %}
+  ![Anna working in our Studio](img/index/home-1.jpeg)
+  ![Geltung Validity Perception of A Natural Right | 2017](img/index/geltung.jpg)
+  ![Server Co-op Meet-up | 2018](img/index/co-op.jpg)
+  ![Sockpuppetry | 2019](img/index/sockpuppetry.jpg)
+{% endslider %}
+
+<div class="post-content">
+  <br>
+  {{ content }}
+</div>
+<header class="post-header">
+  <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
+
+  <!-- <hr> -->
+
+  <div class="post-content">
+    <h3> Latest posts</h3>
+
+    {% for post in site.posts limit: 3%}
+    <ul class="post-list">
+
+
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          {% if post.thumbnail %}
+          <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.thumbnail }}" style="width: 100%;" /> </a>
+        {% else %}
+          <img src="/img/thumbnail/generic.png" style="height: 280px" />
+        {% endif %}
+        
+          <a class="post-link" href="{{ post.url | relative_url }}">
+
+
+            <span class="glitch">
+            {{ post.title | escape }}
+            </span>
+          </a>
+        </h3>
+        {%- if post.excerpt -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        <br>
+        <a href="{{ post.url | relative_url }}">
+        {%- if post.categories -%}
+        {{ post.categories }}
+      {%- endif -%}
+    </a>
+
+      </li>
+      <hr>
+</article>
+
+<body>
+
+
+<!-- Slider -->
+<script src="{{ "../assets/js/ideal-image-slider.js" | relative_url }}"></script>
+<script src="{{ "../assets/js/iis-captions.js" | relative_url }}"></script>
+<script src="{{ "../assets/js/iis-bullet-nav.js" | relative_url }}"></script>
+<!-- Sliders on pages -->
+{% for script in page.iis_slider_scripts %}
+  {{ script }}
+{% endfor %}
+
+    </ul>
+    {% endfor %}
+  </div>
+ 
+</body>
+
+<!--
+Booiler plate for minimal blog roles...
+-->
+
+<!--
+Code scrape for limiting posts...
+
+This can be accomplished through the use of limit:
+
+{% for post in site.posts limit:1 %}
+... Show the post ...
+{% endfor %}
+
+You can also use limit and offset together to "feature" your most recent post:
+
+<h1>Latest Post</h1>
+{% for post in site.posts limit:1 %}
+... Show the first post all big ...
+{% endfor %}
+<h1>Recent Posts</h1>
+{% for post in site.posts offset:1 limit:2 %}
+... Show the next two posts ...
+{% endfor %}
+-->
+
+<!-- <div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {% if post.categories contains 'server-co-op' %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <span class="glitch">
+            {{ post.title | escape }}
+            </span>
+          </a>
+        </h3>
+        {%- if post.excerpt -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}"><span class="glitch">via RSS</span></a></p>
+  {%- endif -%}
+
+</div> -->

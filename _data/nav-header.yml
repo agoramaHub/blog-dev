@@ -1,0 +1,17 @@
+docs_list_title: Navigation Header
+docs:
+
+- title: About
+  url: /about/
+
+- title: Projects
+  url: /projects/
+
+- title: Texts
+  url: http://amapad.bot.nu/
+
+- title: Resources
+  url: /resources/
+
+- title: Contact
+  url: /contact/

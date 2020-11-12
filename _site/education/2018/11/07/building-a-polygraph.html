@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../assets/ideal-image-slider.css">
+	<link rel="stylesheet" href="../assets/themes/default/default.css"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>How to build a polygraph prototype | Agorama</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="How to build a polygraph prototype" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How to build a lie detector with Arduino" />
+<meta property="og:description" content="How to build a lie detector with Arduino" />
+<link rel="canonical" href="http://localhost:4000/education/2018/11/07/building-a-polygraph.html" />
+<meta property="og:url" content="http://localhost:4000/education/2018/11/07/building-a-polygraph.html" />
+<meta property="og:site_name" content="Agorama" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-11-07T12:30:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How to build a polygraph prototype" />
+<script type="application/ld+json">
+{"description":"How to build a lie detector with Arduino","@type":"BlogPosting","headline":"How to build a polygraph prototype","dateModified":"2018-11-07T12:30:00+00:00","datePublished":"2018-11-07T12:30:00+00:00","url":"http://localhost:4000/education/2018/11/07/building-a-polygraph.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/education/2018/11/07/building-a-polygraph.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title glitch-link" rel="author" href="/">
+      <span class="glitch">
+      <img src="/assets/Glitch.png"/>
+      </span>
+    </a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link navLinks glitch-link" href="/about/"><span class="glitch">
+              About
+            </span></a><a class="page-link navLinks glitch-link" href="/projects/"><span class="glitch">
+              Projects
+            </span></a><a class="page-link navLinks glitch-link" href="http://amapad.bot.nu/"><span class="glitch">
+              Texts
+            </span></a><a class="page-link navLinks glitch-link" href="/resources/"><span class="glitch">
+              Resources
+            </span></a><a class="page-link navLinks glitch-link" href="/contact/"><span class="glitch">
+              Contact
+            </span></a></div>
+      </nav></div>
+</header>
+
+<!-- Agorama -->
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">How to build a polygraph prototype</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-11-07T12:30:00+00:00" itemprop="datePublished">Nov 7, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><img src="/img/lie-detector-test1.jpg" alt="alt text" /></p>
+
+<h2 id="polygraph-and-truth-machines">Polygraph and Truth Machine(s)</h2>
+
+<p>Dependencies</p>
+
+<p>Arduino v - 1.8
+Processing v -</p>
+
+<p>We have x2 different types of sensors that can be turned into different polygraphs using different Things
+form groups around which sensor you would like to use</p>
+
+<ul>
+  <li>Electrodermal activity(EDA AKA skin sweat)</li>
+  <li>Heartbeat</li>
+</ul>
+
+<h3 id="electrodermal-activity"><a href="https://en.wikipedia.org/wiki/Electrodermal_activity">Electrodermal Activity</a></h3>
+
+<p>Electrodermal activity (EDA) is the property of the human body that causes continuous variation in the electrical characteristics of the skin.The traditional theory of EDA holds that skin resistance varies with the state of sweat glands in the skin. Sweating is controlled by the sympathetic nervous system, and skin conductance is an indication of psychological or physiological arousal. If the sympathetic branch of the autonomic nervous system is highly aroused, then sweat gland activity also increases, which in turn increases skin conductance. In this way, skin conductance can be a measure of emotional and sympathetic responses</p>
+
+<p>The scientific study of EDA began in the early 1900s. One of the first references to the use of EDA instruments in psychoanalysis is the book by C. G. Jung entitled Studies in Word Analysis, published in 1906.[11][12] Jung and his colleagues used the meter to evaluate the emotional sensitivities of patients to lists of words during word association.[13][14] Jung was so impressed with EDA monitoring, he allegedly cried, “Aha, a looking glass into the unconscious!”[15] Jung described his use of the device in counseling in his book, Studies in Word Association, and such use has continued with various practitioners.[16]</p>
+
+<ul>
+  <li>x1 Arduino uno</li>
+  <li>x1 Breadboard</li>
+  <li>x1 10k resistor</li>
+  <li>Tin foil and tape</li>
+  <li>x3 LEDS (optional)</li>
+</ul>
+
+<h4 id="step-1-prepare-contacts">Step 1 Prepare Contacts</h4>
+<p>GSR machines require an even and consistent connection to the skin in order to function properly. To keep surface area and pressure constant, we will make x2 tin foil electrodes to wrap around two fingers of the interrogated subject.</p>
+
+<p><img src="/img/tin-foil.jpg" alt="alt text" /></p>
+
+<p>Begin by taping the exposed end of a wires to a sheet of foil.</p>
+
+<p>Prepare the contact points onto the tin foil with Sellotape</p>
+
+<h4 id="step-2-make-circuit">Step 2 Make Circuit</h4>
+
+<p><img src="/img/skin_lie_detector.jpg" alt="alt text" /></p>
+
+<p>the Grey wires is going out to your two contact points</p>
+
+<h4 id="step-3-load-the-code">Step 3 Load the Code</h4>
+
+<p>copy this into your arduino sketch.
+Run verify then upload to sketch if it throws no errors.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>void setup() {
+// initialize the serial communication:
+Serial.begin(9600);
+}
+
+void loop() {
+// send the value of analog input 0:
+Serial.println(analogRead(A0));
+// wait a bit for the analog-to-digital converter
+// to stabilize after the last reading:
+delay(100);
+}
+</code></pre></div></div>
+
+<p>We can just use the example “Graph” code that comes with the Arduino software. Navigate to tools&gt;Serial Plotter&gt; and you should see the data coming in from A0 in real time on a graph.</p>
+
+<p><img src="/img/plotter.png" alt="alt text" /></p>
+
+<p>If you do not have the Processing application, it is free to download here. Copy and paste the processing code from the Arduino example into the processing application. The processing window should look familiar as the Arduino application is based off of it. Run the processing program. A graph should pop up. The height of the graph line represents the conductivity of your skin. The higher the line, the higher the conductivity, the higher likelihood that you are lying.
+this guide is helpful -
+<a href="https://mad-science.wonderhowto.com/how-to/diy-polygraph-machine-detect-lies-with-tin-foil-wire-and-arduino-0134599/">https://mad-science.wonderhowto.com/how-to/diy-polygraph-machine-detect-lies-with-tin-foil-wire-and-arduino-0134599/</a></p>
+
+<h4 id="step-4-attach-leds-optional">Step 4 Attach LEDS (optional)</h4>
+
+<p>Once you have a steady signal coming through you may want to attach LEDS to indicate when the polygraph thinks that the subject is telling the truth.</p>
+
+<p><img src="/img/skin-lie-detector-leds.jpg" alt="alt text" /></p>
+
+<p>Use the code below to configure your LEDS (you may need to change some variables)</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+/*comments
+2 is green
+3 is yellow
+4 is red
+*/
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  digitalWrite(2, HIGH);
+  delay(500);
+  digitalWrite(3, HIGH);
+  delay(500);
+  digitalWrite(4, HIGH);
+  delay(500);
+}
+
+void loop()
+{
+  if (analogRead(A0) &gt; 30)
+  {
+    digitalWrite(4, HIGH);
+  }
+  else
+  {
+    digitalWrite(4, LOW);
+  }
+  if (analogRead(A0) &gt; 20)
+  {
+    digitalWrite(2, HIGH);
+  }
+  else
+  {
+    digitalWrite(2, LOW);
+  }
+  if (analogRead(A0) &gt; 10)
+  {
+    digitalWrite(3, HIGH);
+  }
+  else
+  {
+    digitalWrite(3, LOW);
+  }
+
+  Serial.println(analogRead(A0));
+  delay(20);
+}
+</code></pre></div></div>
+
+<h3 id="️-heart-detector-️">❤️ Heart Detector ❤️</h3>
+
+<ul>
+  <li>x1 Arduino uno</li>
+  <li>x1 pulse sensor</li>
+  <li>PulseSensor Playground library</li>
+</ul>
+
+<h4 id="step-1---wire-up-the-pulse-sensor-to-the-arduino">Step 1 - Wire up the Pulse Sensor to the Arduino</h4>
+
+<p><img src="/img/pulsesensor-pins.png" alt="alt text" /></p>
+
+<ul>
+  <li>RED wire = +3V to +5V</li>
+  <li>BLACK wire = GND</li>
+  <li>PURPLE wire = Signal</li>
+</ul>
+
+<h4 id="step-2---install-pulsesensorplayground-library-for-arduino">Step 2 - Install PulseSensorPlayground library for Arduino</h4>
+
+<ul>
+  <li>To install the PulseSensor Playground Library, in Arduino, to go ‘'’Sketch &gt; Include Library &gt; Manage Library…’’’</li>
+  <li>In the Library Manager: Search for and Select “PulseSensor.com</li>
+  <li>Install or update to the lastest version.+1</li>
+  <li>Once this library is installed you will see our examples in Arduino’s dropdown! To select an example project, go to:</li>
+</ul>
+
+<p><img src="/img/pulsesensor-lib.png" alt="" /></p>
+
+<p>Get the latest Arduino software here [https://github.com/WorldFamousElectronics/PulseSensorPlayground] (https://github.com/WorldFamousElectronics/PulseSensorPlayground)
+Follow the README guide to get set up, or follow this Getting Started Tutorial
+For Arduino IDE download: <a href="https://www.arduino.cc/en/Main/Software">https://www.arduino.cc/en/Main/Software</a></p>
+
+<p>Connect the Pulse Sensor to: +V (red), Ground (black), and Analog Pin 0 (purple) on your favorite Arduino, or Arduino compatible device, Then find the Getting Started sketch by clicking
+    File &gt; Examples &gt; PulseSensor Playground &gt; A_StarterProject_and_SignalTester</p>
+
+<h4 id="step-3---connect-the-sensor-to-the-body">Step 3 - Connect the sensor to the body</h4>
+
+<p>The pulse sensor works by being attached to either earlobe or end of finger. If you’re having trouble seeing a heartbeat, make sure that you are using ‘Goldilocks’ pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
+If this code is reading too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust the Threshold value (noted above with arrows).  The Threshold can be any number between 0-1024, but try adjusting by steps of 5 or 10.  Decreasing the Threshold increases the sensitivity.  Increasing the Threshold decreases the sensitivity.</p>
+
+<h4 id="step-4---attach-led-optional">Step 4 - attach led (optional)</h4>
+<p><img src="/img/pulsesensor-lib.png" alt="" /></p>
+
+<p>pro tip - you can also just stick an LED directly into pin 13 and ground!
+This is a helpful guide for getting started with the PulseSensor
+<a href="https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit">https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit</a></p>
+
+  </div><a class="u-url" href="/education/2018/11/07/building-a-polygraph.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Agorama</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <p>Rebecca's Flat <br>
+            56a Artillery Lane<br>
+            London<br>
+            E1 7LS<br>
+          </p>
+          <!-- <li class="p-name">Agorama</li> --><li><a class="u-email glitch-link" href="mailto:admin@agorama.org.uk"><span class="glitch">admin@agorama.org.uk</span></a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a class="glitch-link" href="https://github.com/agoramaHub"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username"><span class="glitch">agoramaHub</span></span></a></li><li><a class="glitch-link" href="https://www.instagram.com/agorama_"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg> <span class="username"><span class="glitch">agorama_</span></span></a></li><li><a class="glitch-link" href="https://twitter.com/agorama_"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username"><span class="glitch">agorama_</span></span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <a class="u-email glitch-link" href="https://home.agorama.org.uk/"><span class="glitch">Agorama</span></a>
+        <p>This website is best experienced with <a class="u-email glitch-link" href="https://beakerbrowser.com/"><span class="glitch">Beaker Browser</span></a> and <a class="u-email glitch-link" href="dat://home.agorama.org.uk/"><span class="glitch">DAT</span></a></p>
+        <a class="glitch-link" href="https://hashbase.io/agoramahub">
+          <span class="glitch">
+          <img src="/assets/hashbase_logo.png" width="30%">
+          </span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

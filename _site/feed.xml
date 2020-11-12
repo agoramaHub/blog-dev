@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-05T17:35:12+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agorama</title><subtitle>Agorama main home page.</subtitle><entry><title type="html">Shinji Toya - Paint Your Face Away</title><link href="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html" rel="alternate" type="text/html" title="Shinji Toya - Paint Your Face Away" /><published>2020-08-17T13:00:00+01:00</published><updated>2020-08-17T13:00:00+01:00</updated><id>http://localhost:4000/artist-res/2020/08/17/shinji-paint-face</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html">&lt;h1 id=&quot;recent-work&quot;&gt;Recent Work&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji-web-site-fullwidth.png&quot; alt=&quot;alt-text&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the summer Alejandro lent a hand to help develop &lt;a href=&quot;https://shinjitoya.com/&quot;&gt;Shinji Toya&lt;/a&gt; latest interactive art project. 
+The project is called &lt;a href=&quot;https://paintyourfaceaway.net&quot;&gt;Paint Your Face Away&lt;/a&gt; and invites the audience to distort their own self portrait using face-painting and masking techniques. We have been friends wth Shinji for a few years now and the project has had some different iterations in the form of workshop sessions so it was neat that he asked us if we could help with some aspects of the web development to turn it into a web application.&lt;/p&gt;
+
+&lt;p&gt;Through interacting with the tool audiences are able to learn when a face is no longer a face in the eyes of facial recognition software and contribute to an alternative facial database of adverserial self-portraits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji1.jpg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji2.jpg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">Over the summer Alejandro lent a hand to help develop Shinji Toya latest interactive art project, Paint Your Face Away.</summary></entry><entry><title type="html">Christopher Macinnes - Artist Residency Program 2020</title><link href="http://localhost:4000/artist-res/2020/08/04/Chris-Macinnes.html" rel="alternate" type="text/html" title="Christopher Macinnes - Artist Residency Program 2020" /><published>2020-08-04T13:00:00+01:00</published><updated>2020-08-04T13:00:00+01:00</updated><id>http://localhost:4000/artist-res/2020/08/04/Chris-Macinnes</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/08/04/Chris-Macinnes.html">&lt;p&gt;&lt;img src=&quot;/img/res01/rpg2.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are very pleased to announce &lt;a href=&quot;http://Christophertophermacinnes.com/&quot;&gt;Christopher Macinnes&lt;/a&gt; as the first artist to take part in our (online) residency program for 2020. Christopher was selected through our collaboration with &lt;a href=&quot;http://www.offsiteproject.org/&quot;&gt;Offsite Projects&lt;/a&gt; where he presented &lt;a href=&quot;http://www.offsiteproject.org/ZIP&quot;&gt;Imagine escape in darkness&lt;/a&gt; which you can dowload and view offline as part of their ZIP residency program.&lt;/p&gt;
+
+&lt;p&gt;Christopher MacInnes is an artist based in London. Taking computing and networks as a starting point he works with software, hardware and occasionally organisms. Using the diverse vectors of our planetary networks, MacInnes attempts to trace the mycellenic tangle of chaotic phenomena across platforms, landscapes and bio-synthetic ecologies.&lt;/p&gt;
+
+&lt;p&gt;We have begun working with Christopher to help develop and realise a multiplayer online game in which the audience will explore a an imagined world full of mystical artefacts and aspects of techno-spirtuality and gnosticism. The game is already looking really exciting, see some of the images below and Christopher has been developing the environment using three.js, websockets and node and we will hopefully be sharing some technical guides to accompany the new work for those interested very soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res01/rpg1.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">We are very pleased to announce Christopher Macinnes as the first artist to take part in our (online) residency program for 2020!</summary></entry><entry><title type="html">Residency Reflections: Hazel Brill</title><link href="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html" rel="alternate" type="text/html" title="Residency Reflections: Hazel Brill" /><published>2019-12-09T13:00:00+00:00</published><updated>2019-12-09T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents</id><content type="html" xml:base="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html">&lt;h1 id=&quot;machine-learning--unity-by-max-dovey&quot;&gt;Machine Learning &amp;amp; Unity by Max Dovey&lt;/h1&gt;
+
+&lt;h2 id=&quot;artist-residency&quot;&gt;Artist Residency&lt;/h2&gt;
+
+&lt;p&gt;Hazel Brill is an artist based in London who graduated from the Slade School of Art in 2017, where I first incidentally became captivated in her complacently titled ‘I made a show for you’ (2017). Hazel creates large scale diorama’s to host her videos, characters and narrations that are all projected onto 3d objects. She uses projection mapping to effectively create highly captivating 3d physical environments that the audience can inhabit without the need for any virtual reality goggles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/outtosea0028-small.jpg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of Hazel’s residency she had expressed an interest in how artificial intelligence can be used to automate or generate autonomous agents and characters. In one of our initial conversations we spent some time discussing how robotics, animatronics and neural networks relate to one another and indulging in speculating about how something like MIT’s AlterEgo project actually works (Spoiler – we have no idea). We looked at many ‘performances’ of artificial intelligent systems from animatronics to robotics and neural network interfaces - While fascinated by the detail on some of the latest animatronic models we also had to work within our resources of time and budget. Hazel often created characters or bodies that communicate through sounds in her work and we began to discuss how those bodies could be implanted with some sort of artificial intelligence to behave or act autonomously.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-process&quot;&gt;Technical Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;aim--to-create-autonomous-animations-by-connecting-machine-learning-models-to-unity&quot;&gt;Aim – to create autonomous animations by connecting machine learning models to Unity&lt;/h3&gt;
+
+&lt;h4 id=&quot;software-requirements&quot;&gt;software requirements&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;python 3.6&lt;/li&gt;
+  &lt;li&gt;TensorFlow&lt;/li&gt;
+  &lt;li&gt;Unity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;useful-resources&quot;&gt;useful resources&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Unity-Technologies/ml-agents&quot;&gt;Unity Machine Learning Toolkit (beta)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;step-by-step-guide&quot;&gt;Step-by-step guide&lt;/h3&gt;
+
+&lt;p&gt;Setting up your working environments&lt;/p&gt;
+
+&lt;p&gt;1) Install unity according to your specific operating system (linux users are advised to use unityHub as it maintains the latest version)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@indiecontessa/setting-up-a-python-environment-with-TensorFlow-on-macos-for-training-unity-ml-agents-faf19d71201&quot;&gt;guide for Mac OSX&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@tijmenlv/setting-up-ml-agents-on-linux-82972c353ad7&quot;&gt;guide for Ubuntu 16.04&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2) Install the machine learning dependencies&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We recommend using anaconda with python 3.6&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cse.unsw.edu.au/~en1811/resources/getting-started/install-anaconda.html&quot;&gt;anaconda installation guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alternatively, if you already have your own environment with python 3.6 installed you can skip installing an enconda environment and go straight to installing the dependencies for &lt;a href=&quot;&quot;&gt;ml-agents toolkit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;using pip3&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  install_requires=[
+        &quot;mlagents_envs==0.8.2&quot;,
+        &quot;tensorflow&amp;gt;=1.7,&amp;lt;1.8&quot;,
+        &quot;Pillow&amp;gt;=4.2.1&quot;,
+        &quot;matplotlib&quot;,
+        &quot;numpy&amp;gt;=1.13.3,&amp;lt;=1.14.5&quot;,
+        &quot;jupyter&quot;,
+        &quot;pytest&amp;gt;=3.2.2,&amp;lt;4.0.0&quot;,
+        &quot;docopt&quot;,
+        &quot;pyyaml&quot;,
+        &quot;protobuf&amp;gt;=3.6,&amp;lt;3.7&quot;,
+        &quot;grpcio&amp;gt;=1.11.0,&amp;lt;1.12.0&quot;,
+        'pypiwin32==223;platform_system==&quot;Windows&quot;',
+    ],
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;3) Virtual Environment&lt;/p&gt;
+
+&lt;p&gt;use conda to create a virtual environment to run your ml-agents toolkit from (We created it with)&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ conda create --name tensor python=3.6 pip
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;This is located in Documents/unity/ml-agents-master/&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ conda activate tensor
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;to close we then type&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ conda deactivate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;4) Install the ML-Agent toolkit&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git clone https://github.com/Unity-Technologies/ml-agents.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;training-models-with-unity--ml-agents&quot;&gt;Training Models with Unity &amp;amp; ML-Agents&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/ml-agents-workflow1.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These terms won’t mean much until you start working but its good to introduce the ‘abstract’ concepts of how you are going to interface between TensorFlow &amp;gt; python &amp;gt; Unity.&lt;/p&gt;
+
+&lt;p&gt;Three important things to remember:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You need an academy to run the simulation&lt;/li&gt;
+  &lt;li&gt;Within the the academy you need a brain object&lt;/li&gt;
+  &lt;li&gt;Inside the brain you need to inject a (pre-trained) model&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/workflow2.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-ml-1.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;1-open-up-unity&quot;&gt;1) Open up Unity&lt;/h5&gt;
+
+&lt;p&gt;Now you have successfully setup your environments you are ready to begin using the ml-agents toolkit with unity.&lt;/p&gt;
+
+&lt;p&gt;Before training your own model its handy to examine the pre-fabs and demos that are available within the unity plugins manager within your unity program drag the complete Ml-agents folder into your assets folder within your project console this should import all the assets you need.&lt;/p&gt;
+
+&lt;p&gt;Navigate to ML-agents in your Project Assets Window &amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-ml-2.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;2-import-the-ml-agents-tutorials&quot;&gt;2) Import the ML-Agents Tutorials&lt;/h5&gt;
+
+&lt;p&gt;For this tutorial, we are going to use the crawler example so navigate to&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ML-agents &amp;gt; examples &amp;gt; Crawler &amp;gt; Scenes&amp;gt;
+and launch the ‘Crawler Dynamic Scene’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;this is going to generate a scene with multiple crawlers, you can go ahead and delete the 10 other crawlers for this tutorial as it will load faster&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-ml-2.0.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;3-give-your-spider-a-brain&quot;&gt;3) Give your spider a brain&lt;/h5&gt;
+
+&lt;p&gt;In ML-agents &amp;gt; examples &amp;gt; Crawler &amp;gt; Brains&lt;/p&gt;
+
+&lt;p&gt;select CrawlerDynamicLearning.asset and drag into your object panel (on the left)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-ml3.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;4-give-your-brain-a-pre-trained-model&quot;&gt;4) Give your brain a pre-trained model&lt;/h5&gt;
+
+&lt;p&gt;This should now be visible and listed as ‘Academy’ layer, with the academy layer selected you need to give it a brain!&lt;/p&gt;
+
+&lt;p&gt;Double click on the brain , this will bring up a new inspector window&lt;/p&gt;
+
+&lt;p&gt;in ML-agents &amp;gt; examples &amp;gt; Crawler &amp;gt; TFModels&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-ml-4.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;drag CrawlerDynamicLearning onto the brain&lt;/p&gt;
+
+&lt;p&gt;this is a pretrained neural network model that has been trained to repeatedly follow the target (the yellow / orange box)&lt;/p&gt;
+
+&lt;p&gt;once you have an academy layer, with a brain, with a pre-trained neural network in it you can hit the play button and watch the crawler in action.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/spider-crawl.gif&quot; style=&quot;display:block;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;going-further&quot;&gt;Going Further&lt;/h2&gt;
+
+&lt;p&gt;Now you have figured out how to use the pre-trained models, you can then begin customising the TensorFlow models and reward functions to create your own models.&lt;/p&gt;
+
+&lt;p&gt;Working within your virtual environment in your terminal window&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect1/unity-mlagents.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Go to utlities open up ‘terminal’&lt;/li&gt;
+  &lt;li&gt;Copy into terminal or type
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd  your/working/Directory/unity/ml-agents-master/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From here you should activate your working environment
+copy into terminal or type
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ conda activate tensor
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Test that your ml-agents is installed by typing
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mlagents-learn
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To train your own own model use this line below and hit the ‘play’ button when it asks….&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mlagents-learn /Users/hazelbrill/Documents/unity/ml-agents-master/config/trainer_config.yaml --run-id=firstRun --train
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;From here you should be able to see the training process in the unity editor window. To terminate the training press Ctrl C in the terminal window to stop the process.
+the model should be saved and available to you within the Unity editor.
+You can edit and change the training settings with the trainer_config.yaml&lt;/p&gt;
+
+&lt;h5 id=&quot;after-training&quot;&gt;After training&lt;/h5&gt;
+&lt;p&gt;You can press Ctrl+C to stop the training, and your trained model will be at &lt;code class=&quot;highlighter-rouge&quot;&gt;models/&amp;lt;run-identifier&amp;gt;/&amp;lt;brain_name&amp;gt;.nn&lt;/code&gt; where &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;brain_name&amp;gt;&lt;/code&gt; is the name of the Brain corresponding to the model. (Note: There is a known bug on Windows that causes the saving of the model to fail when you early terminate the training, it’s recommended to wait until Step has reached the max_steps parameter you set in trainer_config.yaml.) This file corresponds to your model’s latest checkpoint. You can now embed this trained model into your Learning Brain by following the steps below, which is similar to the steps described above.&lt;/p&gt;
+
+&lt;h5 id=&quot;helpful-resources&quot;&gt;helpful resources&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md&quot;&gt;https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gym.openai.com/&quot;&gt;https://gym.openai.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FXFrwvV60N4&amp;amp;list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX&amp;amp;index=3&quot;&gt;https://www.youtube.com/watch?v=FXFrwvV60N4&amp;amp;list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX&amp;amp;index=3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Unity ML tutorial - &lt;a href=&quot;https://www.youtube.com/watch?v=x2RBxmooh8w&quot;&gt;https://www.youtube.com/watch?v=x2RBxmooh8w&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Another series - &lt;a href=&quot;https://www.youtube.com/watch?v=uiutRBXfEbg&amp;amp;list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX&amp;amp;index=2&quot;&gt;https://www.youtube.com/watch?v=uiutRBXfEbg&amp;amp;list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX&amp;amp;index=2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x2RBxmooh8w&quot;&gt;https://www.youtube.com/watch?v=x2RBxmooh8w&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.unity3d.com/2018/12/17/ml-agents-toolkit-v0-6-improved-usability-of-brains-and-imitation-learning/?_ga=2.221967515.2097880843.1563531955-2130937146.1561465028&quot;&gt;https://blogs.unity3d.com/2018/12/17/ml-agents-toolkit-v0-6-improved-usability-of-brains-and-imitation-learning/?_ga=2.221967515.2097880843.1563531955-2130937146.1561465028&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.unity3d.com/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/&quot;&gt;https://blogs.unity3d.com/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">Agorama's residency reflection focusing on Hazel Brill's commission. Swayze Effect. By Max Dovey.</summary></entry><entry><title type="html">p2p Web Jam 2</title><link href="http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html" rel="alternate" type="text/html" title="p2p Web Jam 2" /><published>2019-04-27T12:50:01+01:00</published><updated>2019-04-27T12:50:01+01:00</updated><id>http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2</id><content type="html" xml:base="http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html">&lt;p&gt;&lt;img src=&quot;/img/webjam2/wide.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to make contributing to the infastructure of the p2p web as easy as possible we are collating resources to create simplified guides to installing Homebase (a dat server) on a Raspberry pi.&lt;/p&gt;
+
+&lt;p&gt;On Saturday 27th April 2019 we gathered at the studio to walk through the installation process of turning a Raspberry pi Model 3 into a homebase server. We have already done this on a few pis in our studio (see this &lt;a href=&quot;_posts/2018-11-07-dat-server-node-tutorial.md&quot;&gt;post&lt;/a&gt; but we were looking to streamline the process so we could deploy this custom p2p web server stack to multiple pis. As always our attitude was to learn through doing and through an open workshop that anyone could drop in and learn about configuring their raspberry pis into p2p web servers.&lt;/p&gt;
+
+&lt;p&gt;One of our server co-op members Piper has published this very good &lt;a href=&quot;https://piperhaywood.com/raspberry-pi-homebase-dat/&quot;&gt;read me&lt;/a&gt; which we have &lt;del&gt;copied&lt;/del&gt;  pasted from to ensure this could help others repeat the process. The  guide assumes you already have a raspberry pi with raspbian installed but IF not, do not worry, visit Piper’s notes &lt;a href=&quot;https://piperhaywood.com/raspberry-pi-homebase-dat/&quot;&gt;here&lt;/a&gt; or start here from 0.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/webjam2/aims2.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;aims---to-configure-a-streamlined-install-process-for-batch-deployment-of-homebase-servers-on-the-raspberry-pi-3-model-b&quot;&gt;AIM(S) - to configure a streamlined install process for batch deployment of homebase servers on the raspberry pi 3 model B.&lt;/h2&gt;
+
+&lt;p&gt;Requirements&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Raspberry pi 3 Model B&lt;/li&gt;
+  &lt;li&gt;SD card with raspbian installed&lt;/li&gt;
+  &lt;li&gt;HDMI Monitor&lt;/li&gt;
+  &lt;li&gt;Keyboard + Mouse&lt;/li&gt;
+  &lt;li&gt;Wifi + electricity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/webjam2/3.jpeg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How many heads are required before you can login headless to your raspberry pi?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-0-install-raspbian-on-sd-card-&quot;&gt;Step 0 Install Raspbian on SD Card-&lt;/h2&gt;
+&lt;p&gt;If you have yet to turn on your raspberry pi for the first time you must first do some preliminary steps.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A) Flash Raspbian onto an SD card using a program called &lt;a href=&quot;https://www.balena.io/etcher/&quot;&gt;etcher&lt;/a&gt; or using your command line ‘DD’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;dd bs=4M if=2018-11-13-raspbian-stretch.img of=/dev/SDX conv=fsync status=progress&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;please ensure you have selected the correct directory as flashing will remove all data from disk
+&lt;a href=&quot;https://www.raspberrypi.org/documentation/installation/installing-images/linux.md&quot;&gt;Reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;B) Connect Raspberry Pi to WiFi on the command line&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With your SD card that now has Raspbian installed, plug into a computer (using a micro SD card reader) and you want to edit ‘wpa_supplicant.conf’ file to add the details for the wifi network you want the raspberry pi to connect to&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;with a text editor open up &lt;code class=&quot;highlighter-rouge&quot;&gt;/Volumes/boot/wpa_supplicant.conf&lt;/code&gt; if this does not yet exist create a file using the Command Line &lt;code class=&quot;highlighter-rouge&quot;&gt;nano /Volumes/boot/wpa_supplicant.conf&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add your wifi information in here and copy this into your wpa_supplicant.conf file&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;country=gb
+update_config=1
+ctrl_interface=/var/run/wpa_supplicant
+
+network={
+  scan_ssid=1
+  ssid=&quot;YOUR_NETWORK_NAME&quot;
+  psk=&quot;YOUR_NETWORK_PASSWORD&quot;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;once this is done, make sure to save the file and eject the mounted disk properly to avoid any damage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;C) Enable SSH on the Raspberry pi&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;plug your SD card with raspbian mounted onto your computer&lt;/li&gt;
+  &lt;li&gt;open the command line and enter
+&lt;code class=&quot;highlighter-rouge&quot;&gt;touch /Volumes/boot/ssh
+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This will create a new empty file titled ssh in the root of your SD card. This empty file will allow you to connect via SSH when the Pi is first booted.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;D) Log in to a Raspberry Pi via SSH as the root user pi
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh pi@raspberrypi.local
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;if your having trouble connecting to your Raspberry pi, try pinging it to see if it has successfully connected to the network
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ping raspberrypi.local
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;You can also view all the devices on a network with a handy mobile application called &lt;a href=&quot;https://www.fing.com/&quot;&gt;fing&lt;/a&gt;. This app will show all the devices on the pi and their ip address. If your pi has successfully connected to the wifi network it will be listed in this app. you can then ssh into with the command&lt;/p&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh pi@192.172.3.4
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;&lt;img src=&quot;/img/webjam2/ssh-pi2.png&quot; /&gt;
+&lt;!-- ![](/img/webjam2/ssh-pi2.jpg) --&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;step-1-use-ansible-to-configure-your-raspberry-pi-server&quot;&gt;Step 1 Use Ansible to Configure your Raspberry Pi Server&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/agoramaHub/ansible-raspberry-server&quot;&gt;Agorama’s Ansible Raspberry server playbook&lt;/a&gt; automates a number of fiddly tasks that are required to get a Raspberry Pi set up as a server geared towards use with Homebase. You can get a feel for the tasks that will be performed by the playbook by browsing the files within the playbook, working backwards from all.yml.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a fork of &lt;a href=&quot;https://github.com/lachenmayer&quot;&gt;Harry Lachenmayer’s Raspbery pi Ansible server&lt;/a&gt; that automates alot of the heavy lifting when configuring rpis. e.g. installing nginx, node, DNS and lots more. Each component is optional and can be run by selecting various playbooks that are stored as .YML files.&lt;/p&gt;
+
+&lt;p&gt;Once you follow the steps on this github you should have a raspberry pi with node and nginx installed. Now its time for fun part ;-)&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-install-dat-and-run-homebase-on-a-raspberry-pi-server&quot;&gt;Step 2 Install DAT and run Homebase on a Raspberry Pi server&lt;/h2&gt;
+&lt;p&gt;For security purposes, the Ansible playbook configures worker user on Raspberry server so that we’re not using the root user pi to install and run software. When you first log in with SSH you are logged in as the root user, so we need to switch to worker by running:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A) Change user to the worker user that was set-up to run the ansible playbooks
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo su worker
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B) Install Dat
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install -g dat
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;C) Test whether or not the dat installation works with the Pi configuration by running:
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dat doctor
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;D) Install homebase by running:
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install -g @beaker/homebase
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;E) Change directory to the user root:
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;F) open up the Homebase config with nano, then paste in:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-dats:&quot;&gt;  - url: dat://01cd482f39eb729cdcbb479b03b0c76c6def9cfc9cff276a564a17c99c4432f4/
+  - url: dat://b0bc462c23e3ca1fee7731d0a1a2dc38bd9b9385daa413520e25aea0a26237a6/
+  - url: dat://f707397e8dacc1893dced5afa285bab1715b70fe40135c2e14aac7de52f2c6bb/
+
+directory: ~/.homebase        # where your data will be stored
+
+# For API service. Establish API endpoint through port 80 (http)
+ports:
+  http: 8080                  # HTTP port for redirects or non-TLS serving
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Swapping the DAT Urls to DATS of your choice. this config YML file is extremely fussy about indentation so make sure everything is tidy before saving it!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;G) Now you can run Homebase from your CLI
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;homebase
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;H) H is for Homebase which should now display it is running with the following&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ▶ Directory:    /home/pi/.homebase
+ ▶ Ports:        8080 (HTTP) 443 (HTTPS)
+ ▶ HTTP mirror:  ✔ enabled
+ ▶ Lets Encrypt: ✖ disabled
+ ▶ Dashboard:    ✖ disabled
+ ▶ WebAPI:       ✔ enabled undefined
+
+Serving
+  dat://7aeb3df618daeb74c92ec11f3102e71c313e681e2febf957bef0095766318874/
+  at
+Serving
+  dat://f707397e8dacc1893dced5afa285bab1715b70fe40135c2e14aac7de52f2c6bb/
+  at
+Serving
+  dat://abb7e977f41cd11e0b58178256b9919004e7d6a96126c5822f42cddc67e43487
+  at
+Serving
+  dat://1f1c214b103def29a0df591d1e335710cfa29a308d14ebc0b1e2e11778828663/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/webjam2/alegemma.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3---turn-homebase-into-a-daemon-service&quot;&gt;STEP 3 - Turn Homebase into a daemon service&lt;/h2&gt;
+
+&lt;p&gt;Daemonizing homebase means that it will constantly run in the background as long as the service hasn’t failed, the server is on, and the server is connected to the internet.This is important because the whole point is that we want the Dat sites that are listen in .homebase.yml to run in perpetuity. There are multiple ways to do this (Cron, rc.local, pm2) but we have found the most reliable is with &lt;a href=&quot;https://en.wikipedia.org/wiki/Systemd&quot;&gt;Systemd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A) add a service configuration for homebase. As the root user pi, run:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/systemd/system/homebase.service
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;B) in this file copy and paste the following:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[Unit]
+Description=homebase
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/env .npm-packages/bin/homebase
+WorkingDirectory=/home/worker/
+Restart=on-failure
+StandardInput=null
+StandardOutput=syslog
+StandardError=syslog
+Restart=always
+SyslogIdentifier=homebase
+User=worker
+Group=worker
+
+[Install]
+WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;save and exit the file.&lt;/p&gt;
+
+&lt;p&gt;E) to start and stop the service type:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo service homebase start
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo service homebase stop
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;F) If you make changes to the homebase.service file, you must reload the system.d service for the changes to take effect&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;systemctl daemon-reload
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Congratulations, you should now have &lt;a href=&quot;https://github.com/beakerbrowser/homebase&quot;&gt;homebase&lt;/a&gt; running as a service on your raspberry pi. This will help keep your DATS seeded more permanently. In the next guide we will introduce how to configure a Dynamic DNS so you can serve your DATS over HTTP and the p2p web.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;https://github.com/lachenmayer&quot;&gt;Harry Lachenmayer&lt;/a&gt; and &lt;a href=&quot;https://piperhaywood.com&quot;&gt;Piper Haywood&lt;/a&gt; for helping and everyone who attended the workshop&lt;/p&gt;</content><author><name></name></author><category term="server-co-op" /><summary type="html">Turning Raspberry pi into Homebase p2p web server</summary></entry><entry><title type="html">Meetup#5 Server Co-op Stage 2</title><link href="http://localhost:4000/server-co-op/2019/04/03/meetup-5.html" rel="alternate" type="text/html" title="Meetup#5 Server Co-op Stage 2" /><published>2019-04-03T12:00:00+01:00</published><updated>2019-04-03T12:00:00+01:00</updated><id>http://localhost:4000/server-co-op/2019/04/03/meetup-5</id><content type="html" xml:base="http://localhost:4000/server-co-op/2019/04/03/meetup-5.html">&lt;p&gt;Since July 2018, Agorama has been investigating the possibilities of peer-2-peer (p2p) network infrastructure, while striving to establish a distributive autonomous network of platforms for creative exploration. &lt;!--more--&gt; Currently located at Rebecca’s Flat (Raven Row Gallery), the collective has been organising regular p2p web meet-ups for anyone interested in the distributed Internet and facilitating the development of alternative grass roots models for digital communication. The aim is to form a community interested in experimenting, developing and maintaining a distributed Internet infrastructure.&lt;/p&gt;
+
+&lt;h3 id=&quot;reflection-on-stage-1&quot;&gt;Reflection on Stage: 1&lt;/h3&gt;
+
+&lt;p&gt;The initial stage for the &lt;em&gt;Server Co-op&lt;/em&gt; focused was on community building and explore together current activities happening in the open source community that revolved around the development of new Internet &lt;em&gt;protocols&lt;/em&gt; - particularly those that focused on peer to peer communication. At the heart of the World Wide Wed (WWW) there are various protocols in use which we take for granted such as &lt;em&gt;HTTP&lt;/em&gt;, which allow for our computers (and smart phones) to speak with each other. The creator of the web, Sir Tim Berners-Lee, devised WWW’s system protocols on the basis of establishing a one to many connection. This fundamental ideas is what propelled the Web to be, at least in our current time, a powerful platform for broadcasting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meetup5/ideas1.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/img/meetup5/thurs3.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet, at the same time - which can be felt from recent political judicial hearings amongst other events - the web isn’t as open and free as once thought… It was with this thought in mind and the desire the &lt;em&gt;Server Co-op&lt;/em&gt; was born.&lt;/p&gt;
+
+&lt;p&gt;For the last 6 to 8 months the co-op has been able to run monthly meet-up, each one geared to exploring another part of the peer to peer ecosystem… Leading to the group to learn about parallel communities and projects engaging with the same subject, for example &lt;a href=&quot;https://home.agorama.org.uk/server-co-op/2018/12/18/meetup3.html&quot;&gt;Samiz Dat&lt;/a&gt;, alternative protocol projects such as &lt;a href=&quot;https://home.agorama.org.uk/server-co-op/2018/11/02/meetup2-mozfest.html&quot;&gt;Secure Scuttlebutt&lt;/a&gt;, and finally culminating in a &lt;a href=&quot;https://home.agorama.org.uk/server-co-op/2019/01/24/webjam-1.html&quot;&gt;weekend-long makers/think-tank session&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meetup5/wide3.jpg&quot; width=&quot;100%&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/img/meetup5/whogetstobeapeer.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-2&quot;&gt;Stage: 2&lt;/h3&gt;
+
+&lt;div style=&quot;text-align:center;margin:2rem 0 2rem 0&quot;&gt;
+&lt;img src=&quot;/img/meetup5/wewantyou.png&quot; width=&quot;75%&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;thats-right-we-need-you&quot;&gt;That’s right we need you!&lt;/h4&gt;
+
+&lt;p&gt;At the heart of the co-operative is the idea for self-sustainability through knowledge and education. Through these means Agorama has focused most of its research time in learning, devising &lt;a href=&quot;https://home.agorama.org.uk/education/2018/11/07/dat-server-node-tutorial.html&quot;&gt;tutorials&lt;/a&gt;, and the base-software/resource needed for anyone to establish their own home server.&lt;/p&gt;
+
+&lt;p&gt;Our main intention is to streamline our experimentation with &lt;a href=&quot;&quot;&gt;Raspberry Pi’s&lt;/a&gt; as a personal server and roll out a comprehensive installation and setup materials, or the option of Agorama building a personal Pi Server for co-op members that might find the task a bit daunting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meetup5/rpi.png&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thus far the established base resources (located on the &lt;a href=&quot;https://github.com/agoramaHub?tab=repositories&quot;&gt;Agorama Github page&lt;/a&gt;), which Agorama would like to progress with further are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/agoramaHub/homebase-cors&quot;&gt;Dat Protocol Homebase Server&lt;/a&gt;(fork for the time being from &lt;a href=&quot;https://github.com/beakerbrowser/homebase&quot;&gt;@beaker/homebase&lt;/a&gt;): This base software is the core of the Pi Server. It is the server software which allows for a Pi Server to connect to the p2p web, &lt;em&gt;and&lt;/em&gt;, to the regular web.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/agoramaHub/pinning-client-ui&quot;&gt;Frontend User Interface&lt;/a&gt;: A homebrew user interface developed by Agorama for easier usage of Pi Server. Allows for owner(s) to access Pi Server through a browser and add content like websites, or documents to the server. Can be attached directly to a Pi Server or be self-hosted separately with the use of a browser that allows self-hosting, like &lt;a href=&quot;https://beakerbrowser.com/&quot;&gt;Beaker Browser&lt;/a&gt;, check it out!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further to this, Agorama also has the ambition to establishing an autonomous &lt;a href=&quot;https://github.com/agoramaHub/hashbase&quot;&gt;p2p cloud service&lt;/a&gt; (fork for the time being from &lt;a href=&quot;https://github.com/beakerbrowser/hashbase&quot;&gt;@beaker/hashbase&lt;/a&gt;), and provide a potential hub to support the community, while also establishing a low barrier of entry for individual, parties, or organisations to get started on the p2p web.&lt;/p&gt;
+
+&lt;p&gt;Finally, in a more recent development, Agorama has devised a homebrew program for keeping track of this budding co-operative network and the content it’ll be serving to Internet goers: &lt;a href=&quot;https://github.com/agoramaHub/Server-Co-op-distributive-map&quot;&gt;Distributive Server Co-op map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://coop-map.agorama.org.uk/&quot; style=&quot;height:680px;width:100%;border:none;-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);-o-transform: scale(1);transform:scale(1);filter:progid:DXImageTransform.Microsoft.Matrix(
+  M11=0.9999619230641713,M12=-0.008726535498373935,
+  M21=0.008726535498373935,M22=0.9999619230641713,SizingMethod='auto expand'
+  );&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; sandbox=&quot;allow-scripts&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;…to access link please hold control (Win or Linux), or Cmd (OSX) while clinking to open new browser tab…&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;agoramas-roadmap&quot;&gt;Agorama’s Roadmap&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Initiate a series of workshops on “How to build your own Pi Server” (immediately)&lt;/li&gt;
+  &lt;li&gt;Complete UI Frontend for Pi Server (by end of April, 2019)&lt;/li&gt;
+  &lt;li&gt;Streamline self setup process for Pi Server (by end of May, 2019)&lt;/li&gt;
+  &lt;li&gt;Start getting Pi Server’s in the hands of co-operative members (by mid June, 2019)&lt;/li&gt;
+  &lt;li&gt;Build and establish initial cloud service instance (by end of June, 2019)&lt;/li&gt;
+  &lt;li&gt;Launch prototype p2p network! (end of July, 2019)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;help-us-build-the-new-internet-today&quot;&gt;Help us build the new Internet today!&lt;/h4&gt;</content><author><name></name></author><category term="server-co-op" /><summary type="html">Since July 2018, Agorama has been investigating the possibilities of peer-2-peer (p2p) network infrastructure, while striving to establish a distributive autonomous network of platforms for creative exploration.</summary></entry><entry><title type="html">Sensor IoT Workshop</title><link href="http://localhost:4000/education/2019/03/18/rpi-tutorial.html" rel="alternate" type="text/html" title="Sensor IoT Workshop" /><published>2019-03-18T15:00:00+00:00</published><updated>2019-03-18T15:00:00+00:00</updated><id>http://localhost:4000/education/2019/03/18/rpi-tutorial</id><content type="html" xml:base="http://localhost:4000/education/2019/03/18/rpi-tutorial.html">&lt;h1 id=&quot;raspberry-pi&quot;&gt;Raspberry Pi&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rpi.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries. The original model became far more popular than anticipated, selling outside its target market for uses such as robotics.&lt;/p&gt;
+
+&lt;p&gt;The Raspberry Pi Foundation provides Raspbian, a Debian-based Linux distribution for download, as well as third-party Ubuntu, Windows 10 IoT Core, RISC OS, and specialised media centre distributions.[109] It promotes Python and Scratch as the main programming languages, with support for many other languages.[110] The default firmware is closed source, while an unofficial open source is available.&lt;/p&gt;
+
+&lt;h1 id=&quot;raspberry-pi-and-internet-of-things&quot;&gt;Raspberry Pi and Internet of Things&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started&quot;&gt;check out the introduction documents&lt;/a&gt;
+&lt;a href=&quot;https://pimylifeup.com/category/projects/&quot;&gt;79 raspberry pi projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;using-the-terminal-command-line&quot;&gt;Using the Terminal (Command Line)&lt;/h1&gt;
+
+&lt;p&gt;All computers have a terminal (in windows its called command prompt)
+Mac - &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;/Applications/Utilities&quot;&lt;/code&gt;
+Windows - &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;C:\Windows\system32\cmd.exe&quot;&lt;/code&gt; alternativley just search ‘command prompt’ from the start menu&lt;/p&gt;
+
+&lt;p&gt;once you have it open try this simple command -&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ say hello world&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;connecting-to-the-raspberry-pi-from-your-computer&quot;&gt;Connecting to the Raspberry Pi from your computer&lt;/h1&gt;
+
+&lt;p&gt;how to find our pi’s Ip address (note you need to be on the same wifi network*)
+choices =
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$ ping raspberrypi.local&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting the IP address of a Pi using your smartphone
+The Fing app is a free network scanner for smartphones. It is available for &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.overlook.android.fing&quot;&gt;Android&lt;/a&gt; and &lt;a href=&quot;https://itunes.apple.com/gb/app/fing-network-scanner/id430921107?mt=8&quot;&gt;iOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Your phone and your Raspberry Pi have to be on the same network, so connect your phone to the correct wireless network.&lt;/p&gt;
+
+&lt;p&gt;When you open the Fing app, touch the refresh button in the upper right-hand corner of the screen. After a few seconds you will get a list with all the devices connected to your network. Scroll down to the entry with the manufacturer “Raspberry Pi”. You will see the IP address in the bottom left-hand corner, and the MAC address in the bottom right-hand corner of the entry.&lt;/p&gt;
+
+&lt;h1 id=&quot;remote-login-to-raspberry-pi&quot;&gt;Remote Login to Raspberry Pi&lt;/h1&gt;
+&lt;p&gt;SSH
+(secure Shell)
+Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network.[1] Typical applications include remote command-line login and remote command execution, but any network service can be secured with SSH.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make a note of your RPI’s IP address so you can remotely log in again.
+We are going to use SSH to login remotely from your computers to your Raspberry PI computers…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terminalssh1.png&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/images/terminalssh2.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp&quot;&gt;Getting started with Raspberry pi GPIO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;raspberry-pi-and-internet-of-things-1&quot;&gt;Raspberry Pi and Internet of Things&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started&quot;&gt;check out the introduction documents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pimylifeup.com/category/projects/&quot;&gt;79 raspberry pi projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp&quot;&gt;Getting started with Raspberry pi GPIO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="education" /><summary type="html">Getting Started with the Raspberry Pi</summary></entry><entry><title type="html">Sensor IoT Workshop - Light</title><link href="http://localhost:4000/education/2019/03/18/light-sensor.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Light" /><published>2019-03-18T12:45:00+00:00</published><updated>2019-03-18T12:45:00+00:00</updated><id>http://localhost:4000/education/2019/03/18/light-sensor</id><content type="html" xml:base="http://localhost:4000/education/2019/03/18/light-sensor.html">&lt;h1 id=&quot;photo-resistor-light-sensor&quot;&gt;Photo resistor (Light Sensor)&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rpizero.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/images/light-sensor.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;minimal-set-up&quot;&gt;Minimal Set-up&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;RPI plugged into a Power Supply&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Light sensor (LDR Sensor)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1uF Capacitor&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For many basic projects or products that need to detect when a person has left or entered the area, or has approached, PIR sensors are great. They are low power and low cost, pretty This photoresistor is yet another sensor that I will be looking at incorporating into future projects such as a light activated alarm clock.&lt;/p&gt;
+
+&lt;p&gt;I explain a bit further down each of the parts that I will be using in this circuit. Be sure to read up on it if you need more information on these.&lt;/p&gt;
+
+&lt;p&gt;It is important to note that for this tutorial I am just using a simple photocell sensor while these are perfect for some tasks they might not be as accurate as you would like.
+To get the light sensor circuit built correctly follow the steps below or check out the circuit diagram right underneath the steps. In the following steps, I am referring to the physical numbers of the pins (Logical order).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;First, connect pin #1 (3v3) to the positive rail on the breadboard.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Next, connect pin #6 (ground) to the ground rail on the breadboard.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now place the LDR sensor onto the board and have a wire go from one end to the positive rail.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On the other side of the LDR sensor place a wire leading back to the Raspberry Pi. Hook this to pin #7 (GPIO4)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, place the capacitor from the wire to the negative rail on the breadboard. Make sure you have the negative pin (the shorter leg) of the capacitor in the negative rail.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Light-Sensor-Circuit.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gpio-pizero.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This python script will read from GPIO pin 4 and print the input to the Terminal
+Copy the code below and save the file on your rpi ‘light-sensor.py’&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;#!/usr/local/bin/python
+&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;RPi.GPIO&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setmode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BCM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;#define the pin that goes to the circuit
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;rc_time&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;#Output on the pin for
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;OUT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;#Change the pin back to input
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;#Count until the pin goes high
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;#Catch when script is interrupted, cleanup correctly
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# Main loop
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rc_time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pin_to_circuit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;finally&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;GPIO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cleanup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once we are logged into the Raspberry Pi using SSH we can run the script with the command&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo python light-sensor.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To do -
+Consider adding an LED to turn on when the light sensor is activated&lt;/p&gt;
+
+&lt;p&gt;refs
+&lt;a href=&quot;https://pimylifeup.com/raspberry-pi-light-sensor/&quot;&gt;Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Photoresistors</summary></entry><entry><title type="html">Sensor IoT Workshop - Motion</title><link href="http://localhost:4000/education/2019/03/18/motion-sensor.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Motion" /><published>2019-03-18T12:30:00+00:00</published><updated>2019-03-18T12:30:00+00:00</updated><id>http://localhost:4000/education/2019/03/18/motion-sensor</id><content type="html" xml:base="http://localhost:4000/education/2019/03/18/motion-sensor.html">&lt;h1 id=&quot;motion-sensor&quot;&gt;MOTION SENSOR&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rpizero.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/images/motion-sensor.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;minimal-set-up&quot;&gt;Minimal Set-up&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pir1.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/images/pir2.jpg&quot; alt=&quot;alt text&quot; /&gt;
+For many basic projects or products that need to detect when a person has left or entered the area, or has approached, PIR sensors are great. They are low power and low cost, pretty rugged, have a wide lens range, and are easy to interface with. Note that PIRs won’t tell you how many people are around or how close they are to the sensor, the lens is often fixed to a certain sweep and distance (although it can be hacked somewhere) and they are also sometimes set off by housepets. Experimentation is key!&lt;/p&gt;
+
+&lt;p&gt;Ground - Ground
+5v on rpi to - 5v on Sensor
+Gpio11 - Analogue in&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/motion-sensor-pic-small.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gpio-pizero.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This python script will read from GPIO pin 11 and print the input to the Terminal
+Copy the code below and save the file on your rpi ‘motion-sensor-test.py’&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;import RPi.GPIO as GPIO
+import time
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(11, GPIO.IN)         #Read output from PIR motion sensor
+while True:
+        i=GPIO.input(11)
+        print i
+        time.sleep(1)
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once we are logged into the Raspberry Pi using SSH we can run the script with the command&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo python motion-sensor-test.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To do -
+Consider adding an LED to turn on when the motion sensor is activated&lt;/p&gt;
+
+&lt;p&gt;refs
+&lt;a href=&quot;https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor?view=all&quot;&gt;Adafruit Guide&lt;/a&gt;
+&lt;a href=&quot;https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio&quot;&gt;Maker Pro Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Motion Sensors</summary></entry><entry><title type="html">Sensor IoT Workshop - Heart Rate</title><link href="http://localhost:4000/education/2019/03/16/heart-sensor-rpi.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Heart Rate" /><published>2019-03-16T13:00:00+00:00</published><updated>2019-03-16T13:00:00+00:00</updated><id>http://localhost:4000/education/2019/03/16/heart-sensor-rpi</id><content type="html" xml:base="http://localhost:4000/education/2019/03/16/heart-sensor-rpi.html">&lt;h3 id=&quot;️-heart-detector-for-arduino-️&quot;&gt;❤️ Heart Detector for Arduino ❤️&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;x1 Arduino uno&lt;/li&gt;
+  &lt;li&gt;x1 pulse sensor&lt;/li&gt;
+  &lt;li&gt;PulseSensor Playground library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;step-1---wire-up-the-pulse-sensor-to-the-arduino&quot;&gt;Step 1 - Wire up the Pulse Sensor to the Arduino&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-pins.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RED wire = +3V to +5V&lt;/li&gt;
+  &lt;li&gt;BLACK wire = GND&lt;/li&gt;
+  &lt;li&gt;PURPLE wire = Signal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;step-2---install-pulsesensorplayground-library-for-arduino&quot;&gt;Step 2 - Install PulseSensorPlayground library for Arduino&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To install the PulseSensor Playground Library, in Arduino, to go ‘'’Sketch &amp;gt; Include Library &amp;gt; Manage Library…’’’&lt;/li&gt;
+  &lt;li&gt;In the Library Manager: Search for and Select “PulseSensor.com&lt;/li&gt;
+  &lt;li&gt;Install or update to the lastest version.+1&lt;/li&gt;
+  &lt;li&gt;Once this library is installed you will see our examples in Arduino’s dropdown! To select an example project, go to:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-lib.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Get the latest Arduino software here [https://github.com/WorldFamousElectronics/PulseSensorPlayground] (https://github.com/WorldFamousElectronics/PulseSensorPlayground)
+Follow the README guide to get set up, or follow this Getting Started Tutorial
+For Arduino IDE download: &lt;a href=&quot;https://www.arduino.cc/en/Main/Software&quot;&gt;https://www.arduino.cc/en/Main/Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Connect the Pulse Sensor to: +V (red), Ground (black), and Analog Pin 0 (purple) on your favorite Arduino, or Arduino compatible device, Then find the Getting Started sketch by clicking
+    File &amp;gt; Examples &amp;gt; PulseSensor Playground &amp;gt; A_StarterProject_and_SignalTester&lt;/p&gt;
+
+&lt;h4 id=&quot;step-3---connect-the-sensor-to-the-body&quot;&gt;Step 3 - Connect the sensor to the body&lt;/h4&gt;
+
+&lt;p&gt;The pulse sensor works by being attached to either earlobe or end of finger. If you’re having trouble seeing a heartbeat, make sure that you are using ‘Goldilocks’ pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
+If this code is reading too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust the Threshold value (noted above with arrows).  The Threshold can be any number between 0-1024, but try adjusting by steps of 5 or 10.  Decreasing the Threshold increases the sensitivity.  Increasing the Threshold decreases the sensitivity.&lt;/p&gt;
+
+&lt;h4 id=&quot;step-4---attach-led-optional&quot;&gt;Step 4 - attach led (optional)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-lib.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;pro tip - you can also just stick an LED directly into pin 13 and ground!
+This is a helpful guide for getting started with the PulseSensor
+&lt;a href=&quot;https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit&quot;&gt;https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-️-heart-detector-for-raspberry-pi-️&quot;&gt;### ❤️ Heart Detector for Raspberry Pi ❤️&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/mpc30081.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/mpc3008adc.gif&quot; alt=&quot;&quot; /&gt;
+This guide will show you an easier way to install and use new Python code to talk to the MCP3008 ADC.&lt;/p&gt;
+
+&lt;p&gt;The MCP3008 datasheet is also an important resource to skim and have handy.&lt;/p&gt;
+
+&lt;h1 id=&quot;wiring&quot;&gt;Wiring&lt;/h1&gt;
+&lt;p&gt;The MCP3008 connects to the Raspberry Pi using a SPI serial connection.  You can use either the hardware SPI bus, or any four GPIO pins and software SPI to talk to the MCP3008.  Software SPI is a little more flexible since it can work with any pins on the Pi, whereas hardware SPI is slightly faster but less flexible because it only works with specific pins.  If you aren’t sure which to use I recommend software SPI as it’s easier to setup.&lt;/p&gt;
+
+&lt;p&gt;Before you can wire the chip to the Pi you first need to place it into a breadboard.  If you haven’t used bare DIP chips like the MCP3008 before you want to press it into the breadboard so its legs straddle the empty channel in the middle of the breadboard.  This way you can access each of the legs of the chip from the breadboard.&lt;/p&gt;
+
+&lt;p&gt;Note that the orientation of the chip matters!  Be sure to place it with the half circle indention and dot towards the top.  See the photo below for an example:&lt;/p&gt;
+
+&lt;h1 id=&quot;software-spi&quot;&gt;Software SPI&lt;/h1&gt;
+&lt;p&gt;To connect the MCP3008 to the Raspberry Pi with a software SPI connection you need to make the following connections:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MCP3008 VDD to Raspberry Pi 3.3V&lt;/li&gt;
+  &lt;li&gt;MCP3008 VREF to Raspberry Pi 3.3V&lt;/li&gt;
+  &lt;li&gt;MCP3008 AGND to Raspberry Pi GND&lt;/li&gt;
+  &lt;li&gt;MCP3008 DGND to Raspberry Pi GND&lt;/li&gt;
+  &lt;li&gt;MCP3008 CLK to Raspberry Pi pin 18&lt;/li&gt;
+  &lt;li&gt;MCP3008 DOUT to Raspberry Pi pin 23&lt;/li&gt;
+  &lt;li&gt;MCP3008 DIN to Raspberry Pi pin 24&lt;/li&gt;
+  &lt;li&gt;MCP3008 CS/SHDN to Raspberry Pi pin 25&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that you can swap the MCP3008 CLK, DOUT, DIN, and CS/SHDN pins to any other free digital GPIO pins on the Raspberry Pi.  You’ll just need to modify the example code to use your pins.&lt;/p&gt;
+
+&lt;h1 id=&quot;library-install&quot;&gt;Library Install&lt;/h1&gt;
+&lt;p&gt;After you’ve wired the MCP3008 to the Raspberry Pi with either the software or hardware SPI wiring you’re ready to install the Adafruit MCP3008 Python library.&lt;/p&gt;
+
+&lt;p&gt;You can install the library from the Python package index with a few commands, or you can install the library from its source on GitHub.  Pick one of these options below.  If you aren’t sure I recommend installing from source on GitHub because it will also download examples to use the library.&lt;/p&gt;
+
+&lt;p&gt;Note that before you install the library your Raspberry Pi must be connected to the internet through a wired or wireless network connection.&lt;/p&gt;
+
+&lt;h1 id=&quot;install-dependencies&quot;&gt;Install dependencies&lt;/h1&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update
+sudo apt-get install build-essential python-dev python-smbus git
+cd ~
+git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git
+cd Adafruit_Python_MCP3008
+sudo python setup.py install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h1 id=&quot;edit-the-code&quot;&gt;Edit the code&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;nano simpletest.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Software SPI configuration:
+CLK  = 18
+MISO = 23
+MOSI = 24
+CS   = 25
+mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
+
+# Hardware SPI configuration:
+# SPI_PORT   = 0
+# SPI_DEVICE = 0
+# mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The example will print out a table with all of the ADC channels and their values.  Every half second a new row will be printed with the latest channel values.  For example you might see output like:
+&lt;img src=&quot;/images/adc-example.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have a signal coming in from the ADC you can begin to develop the code to do different things, like turn on an LED for every hear beats
+e.g.
+&lt;img src=&quot;/images/heart-example-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The code below takes an average reading and flashes an LED (on GPIO 2) when it detects a heartbeat&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Simple example of reading the MCP3008 analog input channels
+# Author: Tony DiCola
+# License: Public Domain
+import time
+# Import SPI library (for hardware SPI) and MCP3008 library.
+import Adafruit_GPIO.SPI as SPI
+import Adafruit_MCP3008
+import RPi.GPIO as GPIO           # import RPi.GPIO module
+
+
+GPIO.setmode(GPIO.BCM)            # choose BCM or BOARD
+GPIO.setup(2, GPIO.OUT) # set a port/pin as an output
+
+# Software SPI configuration:
+CLK  = 18
+MISO = 23
+MOSI = 24
+CS   = 25
+mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
+
+MAX_HISTORY = 250
+
+# Maintain a log of previous values to
+# determine min, max and threshold.
+history = []
+
+print('Press Ctrl-C to quit...')
+while True:
+    # Grab the difference between channel 0 and 1 (i.e. channel 0 minus 1).
+    # Note you can specify any value in 0-7 to grab other differences:
+    #  - 0: Return channel 0 minus channel 1
+    #  - 1: Return channel 1 minus channel 0
+    #  - 2: Return channel 2 minus channel 3
+    #  - 3: Return channel 3 minus channel 2
+    #  - 4: Return channel 4 minus channel 5
+    #  - 5: Return channel 5 minus channel 4
+    #  - 6: Return channel 6 minus channel 7
+    #  - 7: Return channel 7 minus channel 6
+    v = mcp.read_adc(1)
+    # print('Channel 1: {0}'.format(v))
+    # time.sleep(0.5)
+    history.append(v)
+
+    # Get the tail, up to MAX_HISTORY length
+    history = history[-MAX_HISTORY:]
+
+    minima, maxima = min(history), max(history)
+
+    threshold_on = (minima + maxima * 3) // 4   # 3/4
+    threshold_off = (minima + maxima) // 2      # 1/2
+
+    if v &amp;gt; threshold_on:
+        GPIO.output(2, True)
+
+    if v &amp;lt; threshold_off:
+       GPIO.output(2, False)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;References
+&lt;a href=&quot;https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008#library-install-2-11&quot;&gt;Adafruit MPC3008 tutotorial&lt;/a&gt;
+&lt;a href=&quot;https://www.twobitarcade.net/article/wemos-heart-rate-sensor-display-micropython/&quot;&gt;Heart Beat BPM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;pg6.md&quot;&gt;Next&lt;/a&gt;
+&lt;a href=&quot;pg4.md&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Heart Sensors</summary></entry><entry><title type="html">Sensor IoT Workshop - Temperature</title><link href="http://localhost:4000/education/2019/03/16/temp-sensor.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Temperature" /><published>2019-03-16T12:45:00+00:00</published><updated>2019-03-16T12:45:00+00:00</updated><id>http://localhost:4000/education/2019/03/16/temp-sensor</id><content type="html" xml:base="http://localhost:4000/education/2019/03/16/temp-sensor.html">&lt;h1 id=&quot;temperature&quot;&gt;Temperature&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rpizero.jpg&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/images/temp-sensor-pic-small.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;minimal-set-up&quot;&gt;Minimal Set-up&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;RPI plugged into a Power Supply&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DS18B20 Temperature sensor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4.7K Ohm or 10K Ohm resistor&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These 1-wire digital temperature sensors are fairly precise (±0.5°C over much of the range) and can give up to 12 bits of precision from the onboard digital-to-analog converter. They work great with any microcontroller using a single digital pin, and you can even connect multiple ones to the same pin, each one has a unique 64-bit ID burned in at the factory to differentiate them. Usable with 3.0-5.0V systems.&lt;/p&gt;
+
+&lt;p&gt;The only downside is they use the Dallas 1-Wire protocol, which is somewhat complex, and requires a bunch of code to parse out the communication. There’s a great Arduino library for 1-Wire, but some microcontrollers do not have support for 1-Wire so be sure to check!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ds18b20.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/temp-sensor.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gpio-pizero.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;enable-the-one-wire-interface&quot;&gt;Enable the One-Wire Interface&lt;/h2&gt;
+
+&lt;p&gt;We’ll need to enable the One-Wire interface before the Pi can receive data from the sensor. Once you’ve connected the DS18B20, power up your Pi and log in, then follow these steps to enable the One-Wire interface:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;At the command prompt, enter: sudo nano /boot/config.txt, then add this to the bottom of the file:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dtoverlay=w1–gpio
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exit Nano, and reboot the Pi (&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo reboot&lt;/code&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Log in to the Pi again, and at the command prompt enter &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo modprobe w1–gpio&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then enter &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo modprobe w1-therm&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change directories to the /sys/bus/w1/devices directory by entering: &lt;code class=&quot;highlighter-rouge&quot;&gt;cd /sys/bus/w1/devices&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now enter ls to list the devices:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You should (hopefully) see the Dallas thermostat which starts with number 10 e.g. 10-0008032d8f63&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CD into the driver folder and type &lt;code class=&quot;highlighter-rouge&quot;&gt;cat w1_slave&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This should print the temperature e.g.&lt;/p&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;31 00 4b 46 ff ff 05 10 1c : crc=1c YES
+31 00 4b 46 ff ff 05 10 1c t=24437
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;h2 id=&quot;write-the-code&quot;&gt;Write the Code&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This python script will read from GPIO pin 4 and print the input to the Terminal
+Copy the code below and save the file on your rpi ‘temp-sensor.py’&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;#!/usr/local/bin/python
+&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;glob&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;system&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'modprobe w1-gpio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;system&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'modprobe w1-therm'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;base_dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/sys/bus/w1/devices/'&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;device_folder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;glob&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;glob&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base_dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'10*'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;device_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;device_folder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/w1_slave'&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;device_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'r'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;readlines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;read_temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'YES'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'t='&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;temp_string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temp_string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1000.0&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;temp_f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;9.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;32.0&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_f&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;      
+        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once we are logged into the Raspberry Pi using SSH we can run the script with the command&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo python temp-sensor.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;refs
+&lt;a href=&quot;http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/&quot;&gt;Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Temperature Sesnors</summary></entry></feed>

@@ -1,0 +1,74 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@font-face {
+  font-family: "FuturaRenner-Light";
+  src: url("./fonts/futura-renner/FuturaRenner-Light.eot");
+  src: url("./fonts/futura-renner/FuturaRenner-Light.eot?#iefix") format('embedded-opentype'),
+       url('./fonts/futura-renner/FuturaRenner-Light.woff2') format('woff2'),
+       url('./fonts/futura-renner/FuturaRenner-Light.woff') format('woff'),
+       url('./fonts/futura-renner/FuturaRenner-Light.ttf') format('truetype'),
+       url('./fonts/futura-renner/FuturaRenner-Light.svg') format('svg');
+}
+@font-face {
+  font-family: "FuturaRenner-Regular";
+  src: url("./fonts/futura-renner/FuturaRenner-Regular.eot");
+  src: url("./fonts/futura-renner/FuturaRenner-Regular.eot?#iefix") format('embedded-opentype'),
+       url('./fonts/futura-renner/FuturaRenner-Regular.woff2') format('woff2'),
+       url('./fonts/futura-renner/FuturaRenner-Regular.woff') format('woff'),
+       url('./fonts/futura-renner/FuturaRenner-Regular.ttf') format('truetype'),
+       url('./fonts/futura-renner/FuturaRenner-Regular.svg') format('svg');
+}
+// Define defaults for each variable.
+// $base-font-family: Futura, Trebuchet MS, sans-serif;
+$base-font-family: "Raleway";
+$base-font-header: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+// Matching colour to commissioned design for link glitch effect...
+$brand-color: #a5a5a5 !default; // original default #696969
+$glitch-bkgrd: rgb(17, 17, 17) !default;
+$glitch-font: #fff !default;
+// End of link glitch color var...
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;

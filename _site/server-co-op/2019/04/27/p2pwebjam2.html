@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../assets/ideal-image-slider.css">
+	<link rel="stylesheet" href="../assets/themes/default/default.css"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>p2p Web Jam 2 | Agorama</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="p2p Web Jam 2" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Turning Raspberry pi into Homebase p2p web server" />
+<meta property="og:description" content="Turning Raspberry pi into Homebase p2p web server" />
+<link rel="canonical" href="http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html" />
+<meta property="og:url" content="http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html" />
+<meta property="og:site_name" content="Agorama" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-04-27T12:50:01+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="p2p Web Jam 2" />
+<script type="application/ld+json">
+{"description":"Turning Raspberry pi into Homebase p2p web server","@type":"BlogPosting","headline":"p2p Web Jam 2","dateModified":"2019-04-27T12:50:01+01:00","datePublished":"2019-04-27T12:50:01+01:00","url":"http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/server-co-op/2019/04/27/p2pwebjam2.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title glitch-link" rel="author" href="/">
+      <span class="glitch">
+      <img src="/assets/Glitch.png"/>
+      </span>
+    </a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link navLinks glitch-link" href="/about/"><span class="glitch">
+              About
+            </span></a><a class="page-link navLinks glitch-link" href="/projects/"><span class="glitch">
+              Projects
+            </span></a><a class="page-link navLinks glitch-link" href="http://amapad.bot.nu/"><span class="glitch">
+              Texts
+            </span></a><a class="page-link navLinks glitch-link" href="/resources/"><span class="glitch">
+              Resources
+            </span></a><a class="page-link navLinks glitch-link" href="/contact/"><span class="glitch">
+              Contact
+            </span></a></div>
+      </nav></div>
+</header>
+
+<!-- Agorama -->
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">p2p Web Jam 2</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2019-04-27T12:50:01+01:00" itemprop="datePublished">Apr 27, 2019
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><img src="/img/webjam2/wide.jpg" alt="alt" /></p>
+
+<p>In order to make contributing to the infastructure of the p2p web as easy as possible we are collating resources to create simplified guides to installing Homebase (a dat server) on a Raspberry pi.</p>
+
+<p>On Saturday 27th April 2019 we gathered at the studio to walk through the installation process of turning a Raspberry pi Model 3 into a homebase server. We have already done this on a few pis in our studio (see this <a href="_posts/2018-11-07-dat-server-node-tutorial.md">post</a> but we were looking to streamline the process so we could deploy this custom p2p web server stack to multiple pis. As always our attitude was to learn through doing and through an open workshop that anyone could drop in and learn about configuring their raspberry pis into p2p web servers.</p>
+
+<p>One of our server co-op members Piper has published this very good <a href="https://piperhaywood.com/raspberry-pi-homebase-dat/">read me</a> which we have <del>copied</del>  pasted from to ensure this could help others repeat the process. The  guide assumes you already have a raspberry pi with raspbian installed but IF not, do not worry, visit Piper’s notes <a href="https://piperhaywood.com/raspberry-pi-homebase-dat/">here</a> or start here from 0.</p>
+
+<p><img src="/img/webjam2/aims2.jpg" alt="alt" /></p>
+
+<h2 id="aims---to-configure-a-streamlined-install-process-for-batch-deployment-of-homebase-servers-on-the-raspberry-pi-3-model-b">AIM(S) - to configure a streamlined install process for batch deployment of homebase servers on the raspberry pi 3 model B.</h2>
+
+<p>Requirements</p>
+<ul>
+  <li>Raspberry pi 3 Model B</li>
+  <li>SD card with raspbian installed</li>
+  <li>HDMI Monitor</li>
+  <li>Keyboard + Mouse</li>
+  <li>Wifi + electricity</li>
+</ul>
+
+<p><img src="/img/webjam2/3.jpeg" alt="alt" /></p>
+
+<p><em>How many heads are required before you can login headless to your raspberry pi?</em></p>
+
+<h2 id="step-0-install-raspbian-on-sd-card-">Step 0 Install Raspbian on SD Card-</h2>
+<p>If you have yet to turn on your raspberry pi for the first time you must first do some preliminary steps.</p>
+
+<ul>
+  <li>A) Flash Raspbian onto an SD card using a program called <a href="https://www.balena.io/etcher/">etcher</a> or using your command line ‘DD’</li>
+</ul>
+
+<p><code class="highlighter-rouge">dd bs=4M if=2018-11-13-raspbian-stretch.img of=/dev/SDX conv=fsync status=progress</code></p>
+
+<p>please ensure you have selected the correct directory as flashing will remove all data from disk
+<a href="https://www.raspberrypi.org/documentation/installation/installing-images/linux.md">Reference</a></p>
+
+<ul>
+  <li>
+    <p>B) Connect Raspberry Pi to WiFi on the command line</p>
+  </li>
+  <li>
+    <p>With your SD card that now has Raspbian installed, plug into a computer (using a micro SD card reader) and you want to edit ‘wpa_supplicant.conf’ file to add the details for the wifi network you want the raspberry pi to connect to</p>
+  </li>
+  <li>
+    <p>with a text editor open up <code class="highlighter-rouge">/Volumes/boot/wpa_supplicant.conf</code> if this does not yet exist create a file using the Command Line <code class="highlighter-rouge">nano /Volumes/boot/wpa_supplicant.conf</code></p>
+  </li>
+  <li>
+    <p>Add your wifi information in here and copy this into your wpa_supplicant.conf file</p>
+  </li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>country=gb
+update_config=1
+ctrl_interface=/var/run/wpa_supplicant
+
+network={
+  scan_ssid=1
+  ssid="YOUR_NETWORK_NAME"
+  psk="YOUR_NETWORK_PASSWORD"
+}
+</code></pre></div></div>
+<ul>
+  <li>
+    <p>once this is done, make sure to save the file and eject the mounted disk properly to avoid any damage.</p>
+  </li>
+  <li>
+    <p>C) Enable SSH on the Raspberry pi</p>
+  </li>
+  <li>plug your SD card with raspbian mounted onto your computer</li>
+  <li>open the command line and enter
+<code class="highlighter-rouge">touch /Volumes/boot/ssh
+</code></li>
+  <li>
+    <p>This will create a new empty file titled ssh in the root of your SD card. This empty file will allow you to connect via SSH when the Pi is first booted.</p>
+  </li>
+  <li>D) Log in to a Raspberry Pi via SSH as the root user pi
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh pi@raspberrypi.local
+</code></pre></div>    </div>
+  </li>
+  <li>if your having trouble connecting to your Raspberry pi, try pinging it to see if it has successfully connected to the network
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ping raspberrypi.local
+</code></pre></div>    </div>
+    <p>You can also view all the devices on a network with a handy mobile application called <a href="https://www.fing.com/">fing</a>. This app will show all the devices on the pi and their ip address. If your pi has successfully connected to the wifi network it will be listed in this app. you can then ssh into with the command</p>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh pi@192.172.3.4
+</code></pre></div>    </div>
+    <p><img src="/img/webjam2/ssh-pi2.png" />
+<!-- ![](/img/webjam2/ssh-pi2.jpg) --></p>
+  </li>
+</ul>
+
+<h2 id="step-1-use-ansible-to-configure-your-raspberry-pi-server">Step 1 Use Ansible to Configure your Raspberry Pi Server</h2>
+
+<ul>
+  <li><a href="https://github.com/agoramaHub/ansible-raspberry-server">Agorama’s Ansible Raspberry server playbook</a> automates a number of fiddly tasks that are required to get a Raspberry Pi set up as a server geared towards use with Homebase. You can get a feel for the tasks that will be performed by the playbook by browsing the files within the playbook, working backwards from all.yml.</li>
+</ul>
+
+<p>This is a fork of <a href="https://github.com/lachenmayer">Harry Lachenmayer’s Raspbery pi Ansible server</a> that automates alot of the heavy lifting when configuring rpis. e.g. installing nginx, node, DNS and lots more. Each component is optional and can be run by selecting various playbooks that are stored as .YML files.</p>
+
+<p>Once you follow the steps on this github you should have a raspberry pi with node and nginx installed. Now its time for fun part ;-)</p>
+
+<h2 id="step-2-install-dat-and-run-homebase-on-a-raspberry-pi-server">Step 2 Install DAT and run Homebase on a Raspberry Pi server</h2>
+<p>For security purposes, the Ansible playbook configures worker user on Raspberry server so that we’re not using the root user pi to install and run software. When you first log in with SSH you are logged in as the root user, so we need to switch to worker by running:</p>
+<ul>
+  <li>A) Change user to the worker user that was set-up to run the ansible playbooks
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo su worker
+</code></pre></div>    </div>
+  </li>
+  <li>B) Install Dat
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm install -g dat
+</code></pre></div>    </div>
+  </li>
+  <li>C) Test whether or not the dat installation works with the Pi configuration by running:
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dat doctor
+</code></pre></div>    </div>
+  </li>
+  <li>D) Install homebase by running:
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm install -g @beaker/homebase
+</code></pre></div>    </div>
+  </li>
+  <li>E) Change directory to the user root:
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd
+</code></pre></div>    </div>
+  </li>
+  <li>F) open up the Homebase config with nano, then paste in:</li>
+</ul>
+
+<pre><code class="language-dats:">  - url: dat://01cd482f39eb729cdcbb479b03b0c76c6def9cfc9cff276a564a17c99c4432f4/
+  - url: dat://b0bc462c23e3ca1fee7731d0a1a2dc38bd9b9385daa413520e25aea0a26237a6/
+  - url: dat://f707397e8dacc1893dced5afa285bab1715b70fe40135c2e14aac7de52f2c6bb/
+
+directory: ~/.homebase        # where your data will be stored
+
+# For API service. Establish API endpoint through port 80 (http)
+ports:
+  http: 8080                  # HTTP port for redirects or non-TLS serving
+</code></pre>
+
+<p>Swapping the DAT Urls to DATS of your choice. this config YML file is extremely fussy about indentation so make sure everything is tidy before saving it!</p>
+
+<ul>
+  <li>G) Now you can run Homebase from your CLI
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>homebase
+</code></pre></div>    </div>
+  </li>
+  <li>H) H is for Homebase which should now display it is running with the following</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> ▶ Directory:    /home/pi/.homebase
+ ▶ Ports:        8080 (HTTP) 443 (HTTPS)
+ ▶ HTTP mirror:  ✔ enabled
+ ▶ Lets Encrypt: ✖ disabled
+ ▶ Dashboard:    ✖ disabled
+ ▶ WebAPI:       ✔ enabled undefined
+
+Serving
+  dat://7aeb3df618daeb74c92ec11f3102e71c313e681e2febf957bef0095766318874/
+  at
+Serving
+  dat://f707397e8dacc1893dced5afa285bab1715b70fe40135c2e14aac7de52f2c6bb/
+  at
+Serving
+  dat://abb7e977f41cd11e0b58178256b9919004e7d6a96126c5822f42cddc67e43487
+  at
+Serving
+  dat://1f1c214b103def29a0df591d1e335710cfa29a308d14ebc0b1e2e11778828663/
+</code></pre></div></div>
+
+<p><img src="/img/webjam2/alegemma.jpg" alt="" /></p>
+
+<h2 id="step-3---turn-homebase-into-a-daemon-service">STEP 3 - Turn Homebase into a daemon service</h2>
+
+<p>Daemonizing homebase means that it will constantly run in the background as long as the service hasn’t failed, the server is on, and the server is connected to the internet.This is important because the whole point is that we want the Dat sites that are listen in .homebase.yml to run in perpetuity. There are multiple ways to do this (Cron, rc.local, pm2) but we have found the most reliable is with <a href="https://en.wikipedia.org/wiki/Systemd">Systemd</a></p>
+
+<p>A) add a service configuration for homebase. As the root user pi, run:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /etc/systemd/system/homebase.service
+</code></pre></div></div>
+
+<p>B) in this file copy and paste the following:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[Unit]
+Description=homebase
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/env .npm-packages/bin/homebase
+WorkingDirectory=/home/worker/
+Restart=on-failure
+StandardInput=null
+StandardOutput=syslog
+StandardError=syslog
+Restart=always
+SyslogIdentifier=homebase
+User=worker
+Group=worker
+
+[Install]
+WantedBy=multi-user.target
+</code></pre></div></div>
+<p>save and exit the file.</p>
+
+<p>E) to start and stop the service type:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo service homebase start
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo service homebase stop
+</code></pre></div></div>
+
+<p>F) If you make changes to the homebase.service file, you must reload the system.d service for the changes to take effect</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl daemon-reload
+</code></pre></div></div>
+
+<p>Congratulations, you should now have <a href="https://github.com/beakerbrowser/homebase">homebase</a> running as a service on your raspberry pi. This will help keep your DATS seeded more permanently. In the next guide we will introduce how to configure a Dynamic DNS so you can serve your DATS over HTTP and the p2p web.</p>
+
+<p>Thanks to <a href="https://github.com/lachenmayer">Harry Lachenmayer</a> and <a href="https://piperhaywood.com">Piper Haywood</a> for helping and everyone who attended the workshop</p>
+
+  </div><a class="u-url" href="/server-co-op/2019/04/27/p2pwebjam2.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Agorama</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <p>Rebecca's Flat <br>
+            56a Artillery Lane<br>
+            London<br>
+            E1 7LS<br>
+          </p>
+          <!-- <li class="p-name">Agorama</li> --><li><a class="u-email glitch-link" href="mailto:admin@agorama.org.uk"><span class="glitch">admin@agorama.org.uk</span></a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a class="glitch-link" href="https://github.com/agoramaHub"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username"><span class="glitch">agoramaHub</span></span></a></li><li><a class="glitch-link" href="https://www.instagram.com/agorama_"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg> <span class="username"><span class="glitch">agorama_</span></span></a></li><li><a class="glitch-link" href="https://twitter.com/agorama_"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username"><span class="glitch">agorama_</span></span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <a class="u-email glitch-link" href="https://home.agorama.org.uk/"><span class="glitch">Agorama</span></a>
+        <p>This website is best experienced with <a class="u-email glitch-link" href="https://beakerbrowser.com/"><span class="glitch">Beaker Browser</span></a> and <a class="u-email glitch-link" href="dat://home.agorama.org.uk/"><span class="glitch">DAT</span></a></p>
+        <a class="glitch-link" href="https://hashbase.io/agoramahub">
+          <span class="glitch">
+          <img src="/assets/hashbase_logo.png" width="30%">
+          </span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
