@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-05T17:35:12+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agorama</title><subtitle>Agorama main home page.</subtitle><entry><title type="html">Shinji Toya - Paint Your Face Away</title><link href="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html" rel="alternate" type="text/html" title="Shinji Toya - Paint Your Face Away" /><published>2020-08-17T13:00:00+01:00</published><updated>2020-08-17T13:00:00+01:00</updated><id>http://localhost:4000/artist-res/2020/08/17/shinji-paint-face</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html">&lt;h1 id=&quot;recent-work&quot;&gt;Recent Work&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T13:50:27+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agorama</title><subtitle>Agorama main home page.</subtitle><entry><title type="html">Catinca Malaimare - Artist Residency Program 2020</title><link href="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html" rel="alternate" type="text/html" title="Catinca Malaimare - Artist Residency Program 2020" /><published>2020-11-12T13:00:00+00:00</published><updated>2020-11-12T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2020/11/12/catinca-malaimare</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html">&lt;p&gt;&lt;img src=&quot;/img/res01/rpg2.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following on from our collaboration with Offsite Projects artist &lt;a href=&quot;https://www.catincamalaimare.com/&quot;&gt;Catinca Malaimare&lt;/a&gt; is are second artist in residence for our online residency program.&lt;/p&gt;
+
+&lt;p&gt;For her ZIP residency in June Catinca produced ‘Lo Sodium’ a series of performative rituals that dramatised our complex compansionship with technology through a series of chorographed interactions and a short story.  Catinca situates herself in and around a large pair of stage lights and invites the viewer to explore these majestic mechanical objects in a theatrical sense, delibreately demanding a discomforting intensity from the viewer and asking us to share the awkward physical presence of these regal (but sadly now redundant) tecnological artefacts.&lt;/p&gt;
+
+&lt;p&gt;As part of her residency with us at Agorama Catinca has been experimenting with two JVC space helmet TV’s from the 1970s (see image). We are also working with her to devlelop the construction of a new pair of strip lights that can be used in a new performance.&lt;/p&gt;
+
+&lt;p&gt;Catinca is regularly documenting the process on her &lt;a href=&quot;https://www.instagram.com/catincamalaimare/&quot;&gt;Instagram&lt;/a&gt; and the outputs will be shared publically as part of a group show early next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.catincamalaimare.com/&quot;&gt;Catinca Malaimare&lt;/a&gt; is a London based artist and current postgraduate student at The Royal Academy of Arts. Performing alongside anthropomorphised technologies, Malaimare’s choreography manifests our intimate relationship with photographic tools and the screens onto which they project our visages. Recent exhibitions, performances and screenings include RA Premiums Interim Show, The Royal Academy of Art, London (2020); Bad sights.Bad Sights Ahead​, 16 Nicholson Street Gallery, Glasgow; Screen Saver Screen Grabber, STAMPEDE at Royal Academy of Arts; LAND GRAB, Sadie Coles HQ, London; Why not pour video into our eyes?, TUA Geidai, Tokyo (2019); We are all involved in this mess, Enclave Lab; Prefix is post-, Lewisham Art House, London; MONO, Porthmeor Studios, St Ives; and Pilot Screens, P E R I C L O, Wrexham (2017). Malaimare is founder and co-curator of Habeas Corpus (We Have A Body), a platform that aims to provide a testing ground for live and media-based works in contemporary performance art.&lt;/p&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">Catinca Malaimare brings her performative practice to Agorama's artist residency program</summary></entry><entry><title type="html">Shinji Toya - Paint Your Face Away</title><link href="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html" rel="alternate" type="text/html" title="Shinji Toya - Paint Your Face Away" /><published>2020-08-17T13:00:00+01:00</published><updated>2020-08-17T13:00:00+01:00</updated><id>http://localhost:4000/artist-res/2020/08/17/shinji-paint-face</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/08/17/shinji-paint-face.html">&lt;h1 id=&quot;recent-work&quot;&gt;Recent Work&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji-web-site-fullwidth.png&quot; alt=&quot;alt-text&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -882,121 +892,4 @@ while True:
 &lt;a href=&quot;https://www.twobitarcade.net/article/wemos-heart-rate-sensor-display-micropython/&quot;&gt;Heart Beat BPM&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;pg6.md&quot;&gt;Next&lt;/a&gt;
-&lt;a href=&quot;pg4.md&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Heart Sensors</summary></entry><entry><title type="html">Sensor IoT Workshop - Temperature</title><link href="http://localhost:4000/education/2019/03/16/temp-sensor.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Temperature" /><published>2019-03-16T12:45:00+00:00</published><updated>2019-03-16T12:45:00+00:00</updated><id>http://localhost:4000/education/2019/03/16/temp-sensor</id><content type="html" xml:base="http://localhost:4000/education/2019/03/16/temp-sensor.html">&lt;h1 id=&quot;temperature&quot;&gt;Temperature&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/rpizero.jpg&quot; alt=&quot;alt text&quot; /&gt;
-&lt;img src=&quot;/images/temp-sensor-pic-small.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;minimal-set-up&quot;&gt;Minimal Set-up&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;RPI plugged into a Power Supply&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;DS18B20 Temperature sensor&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;4.7K Ohm or 10K Ohm resistor&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These 1-wire digital temperature sensors are fairly precise (±0.5°C over much of the range) and can give up to 12 bits of precision from the onboard digital-to-analog converter. They work great with any microcontroller using a single digital pin, and you can even connect multiple ones to the same pin, each one has a unique 64-bit ID burned in at the factory to differentiate them. Usable with 3.0-5.0V systems.&lt;/p&gt;
-
-&lt;p&gt;The only downside is they use the Dallas 1-Wire protocol, which is somewhat complex, and requires a bunch of code to parse out the communication. There’s a great Arduino library for 1-Wire, but some microcontrollers do not have support for 1-Wire so be sure to check!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/ds18b20.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/temp-sensor.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/gpio-pizero.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;enable-the-one-wire-interface&quot;&gt;Enable the One-Wire Interface&lt;/h2&gt;
-
-&lt;p&gt;We’ll need to enable the One-Wire interface before the Pi can receive data from the sensor. Once you’ve connected the DS18B20, power up your Pi and log in, then follow these steps to enable the One-Wire interface:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;At the command prompt, enter: sudo nano /boot/config.txt, then add this to the bottom of the file:&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dtoverlay=w1–gpio
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Exit Nano, and reboot the Pi (&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo reboot&lt;/code&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Log in to the Pi again, and at the command prompt enter &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo modprobe w1–gpio&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Then enter &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo modprobe w1-therm&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Change directories to the /sys/bus/w1/devices directory by entering: &lt;code class=&quot;highlighter-rouge&quot;&gt;cd /sys/bus/w1/devices&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Now enter ls to list the devices:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You should (hopefully) see the Dallas thermostat which starts with number 10 e.g. 10-0008032d8f63&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;CD into the driver folder and type &lt;code class=&quot;highlighter-rouge&quot;&gt;cat w1_slave&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This should print the temperature e.g.&lt;/p&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;31 00 4b 46 ff ff 05 10 1c : crc=1c YES
-31 00 4b 46 ff ff 05 10 1c t=24437
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;h2 id=&quot;write-the-code&quot;&gt;Write the Code&lt;/h2&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This python script will read from GPIO pin 4 and print the input to the Terminal
-Copy the code below and save the file on your rpi ‘temp-sensor.py’&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;#!/usr/local/bin/python
-&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;glob&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;system&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'modprobe w1-gpio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;system&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'modprobe w1-therm'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;base_dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/sys/bus/w1/devices/'&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;device_folder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;glob&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;glob&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base_dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'10*'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;device_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;device_folder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/w1_slave'&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;device_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'r'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;readlines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;read_temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()[&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'YES'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;read_temp_raw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'t='&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;temp_string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;equals_pos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temp_string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1000.0&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;temp_f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;9.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;5.0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;32.0&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp_f&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;      
-        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Once we are logged into the Raspberry Pi using SSH we can run the script with the command&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo python temp-sensor.py
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;refs
-&lt;a href=&quot;http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/&quot;&gt;Guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Temperature Sesnors</summary></entry></feed>
+&lt;a href=&quot;pg4.md&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Heart Sensors</summary></entry></feed>
