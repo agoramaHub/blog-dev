@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-13T12:55:49+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agorama</title><subtitle>Agorama main home page.</subtitle><entry><title type="html">Catinca Malaimare - Artist Residency Program 2020</title><link href="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html" rel="alternate" type="text/html" title="Catinca Malaimare - Artist Residency Program 2020" /><published>2020-11-12T13:00:00+00:00</published><updated>2020-11-12T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2020/11/12/catinca-malaimare</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html">&lt;p&gt;&lt;img src=&quot;/img/1-web-med2.jpeg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-13T18:05:12+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Agorama</title><subtitle>Agorama main home page.</subtitle><entry><title type="html">Catinca Malaimare - Artist Residency Program 2020</title><link href="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html" rel="alternate" type="text/html" title="Catinca Malaimare - Artist Residency Program 2020" /><published>2020-11-12T13:00:00+00:00</published><updated>2020-11-12T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2020/11/12/catinca-malaimare</id><content type="html" xml:base="http://localhost:4000/artist-res/2020/11/12/catinca-malaimare.html">&lt;p&gt;&lt;img src=&quot;/img/1-web-med2.jpeg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Following on from our collaboration with Offsite Projects artist &lt;a href=&quot;https://www.catincamalaimare.com/&quot;&gt;Catinca Malaimare&lt;/a&gt; is are second artist in residence for our online residency program.&lt;/p&gt;
 
@@ -13,10 +13,12 @@
 &lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji-web-site-fullwidth.png&quot; alt=&quot;alt-text&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Over the summer Alejandro lent a hand to help develop &lt;a href=&quot;https://shinjitoya.com/&quot;&gt;Shinji Toya&lt;/a&gt; latest interactive art project. 
+&lt;p&gt;Over the summer Alejandro lent a hand to help develop &lt;a href=&quot;https://shinjitoya.com/&quot;&gt;Shinji Toya&lt;/a&gt; latest interactive art project.
 The project is called &lt;a href=&quot;https://paintyourfaceaway.net&quot;&gt;Paint Your Face Away&lt;/a&gt; and invites the audience to distort their own self portrait using face-painting and masking techniques. We have been friends wth Shinji for a few years now and the project has had some different iterations in the form of workshop sessions so it was neat that he asked us if we could help with some aspects of the web development to turn it into a web application.&lt;/p&gt;
 
 &lt;p&gt;Through interacting with the tool audiences are able to learn when a face is no longer a face in the eyes of facial recognition software and contribute to an alternative facial database of adverserial self-portraits.&lt;/p&gt;
+
+&lt;p&gt;:-)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/pyfa/shinji1.jpg&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;
 
@@ -30,7 +32,143 @@ The project is called &lt;a href=&quot;https://paintyourfaceaway.net&quot;&gt;Pa
 
 &lt;p&gt;We have begun working with Christopher to help develop and realise a multiplayer online game in which the audience will explore a an imagined world full of mystical artefacts and aspects of techno-spirtuality and gnosticism. The game is already looking really exciting, see some of the images below and Christopher has been developing the environment using three.js, websockets and node and we will hopefully be sharing some technical guides to accompany the new work for those interested very soon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/res01/rpg1.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">We are very pleased to announce Christopher Macinnes as the first artist to take part in our (online) residency program for 2020!</summary></entry><entry><title type="html">Residency Reflections: Hazel Brill</title><link href="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html" rel="alternate" type="text/html" title="Residency Reflections: Hazel Brill" /><published>2019-12-09T13:00:00+00:00</published><updated>2019-12-09T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents</id><content type="html" xml:base="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html">&lt;h1 id=&quot;machine-learning--unity-by-max-dovey&quot;&gt;Machine Learning &amp;amp; Unity by Max Dovey&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/img/res01/rpg1.png&quot; alt=&quot;alt-text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">We are very pleased to announce Christopher Macinnes as the first artist to take part in our (online) residency program for 2020!</summary></entry><entry><title type="html">Residency Reflections: Tamara Kametani</title><link href="http://localhost:4000/artist-res/2019/12/10/tamara-kametani-google-car.html" rel="alternate" type="text/html" title="Residency Reflections: Tamara Kametani" /><published>2019-12-10T13:00:00+00:00</published><updated>2019-12-10T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2019/12/10/tamara-kametani-google-car</id><content type="html" xml:base="http://localhost:4000/artist-res/2019/12/10/tamara-kametani-google-car.html">&lt;h3 id=&quot;chasing-the-google-maps-car-by-alejandro-ball&quot;&gt;Chasing the Google Map’s Car by Alejandro Ball&lt;/h3&gt;
+
+&lt;h2 id=&quot;artist-residency&quot;&gt;Artist Residency&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-beginning&quot;&gt;The beginning&lt;/h3&gt;
+&lt;p&gt;Tamara had a very clear concept and roadmap for the project she wanted to undertake during her residency time with Agorama. The concept… locate Google Street View recording car and secretly insert herself into Google Map.&lt;/p&gt;
+
+&lt;p&gt;The idea originated from an earlier moment when Tamare was still attending her MA with the Royal Academy of Art (London, UK), where she described a moment when she was walking to class and suddenly realised the famous Google Street View car had passed her. In her curiousity, Tamara explored Google Maps in the location of her interaction to discover that she had in fact been captured serindipitously and now was a permenant main stay of the world’s largest digital interactive map.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect2/tamara-beginning.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was with this experience in mind that Tamara approach the Agorama residency; an attempt to reenact this previous experience through the residency process.&lt;/p&gt;
+
+&lt;h3 id=&quot;residencys-approach&quot;&gt;Residency’s approach&lt;/h3&gt;
+
+&lt;p&gt;As for the approach to Tamara’s residency, this brough Agorama into a position of researcher and proposing various tools and platforms that could possible help Tamara achieve her vision.&lt;/p&gt;
+
+&lt;p&gt;In our first initial meeting we discussed several options for tracking her progress in searching out the Google Street View car’s route, from using GPS tracking devices to platforms where she could document the progress of her project. In the end Tamara settled on using Google’s own &lt;a href=&quot;https://mymaps.google.com&quot;&gt;My Maps&lt;/a&gt;, which allows for a user to create their own Google map with landmarks, icon placement and the highlighing of walking and driving routes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect2/Kametani_T_01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We also pursued other options in the case of Tamara failing to find he Google Street View car through the means of other potential surveillance material. One particular example which was attempted and not used for the final work of art is the &lt;a href=&quot;https://api.tfl.gov.uk/Place/Type/JamCam&quot;&gt;TFL Jam Cam public API database&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The final elements, which were enacted for Tamara in her project’s endeavour were the create’s of a closed Whatsapp group of trusted individuals and a meeting with one of the Google Street View car’s managers. In the former case, participants that were invited to the closed Whatsapp group were instructed to keep an eye out for the Google Street View car and to photograph it then share it with the group along with the location of the sighting.&lt;/p&gt;
+
+&lt;p&gt;In the latter action, Agorama were able - through insider connections ;) - to score a meeting with a Google Street View car manager. Due to this sensitive nature this is all that will be said on the matter.&lt;/p&gt;
+
+&lt;h2 id=&quot;processes-overview&quot;&gt;Processes overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;tfl-jam-cam-api&quot;&gt;TFL Jam Cam API&lt;/h3&gt;
+&lt;p&gt;While not included into the final project, this aspect of the collaboration was incredibly fun to put together for Tamara! Essentially it was agreed with Tamara that I would create a simple program that would repeatedly download cctv footage from TFL’s Jam Cam API within a 5 mile radius of Tamara’s Google Street View car search route.&lt;/p&gt;
+
+&lt;p&gt;To provide context into the TFL API… the City of London is known as one of the worlds most surveilled cities in the world, with thousands of cameras scattered across the city. The interesting aspect in all this &lt;code class=&quot;highlighter-rouge&quot;&gt;Big Borther&lt;/code&gt; business is that these thousands of CCTV cameras are not under the control of a single party, and in the case of the CCTV camera attempted to be used for Tamara’s project TFL controls roughly 911 different CCTV &lt;code class=&quot;highlighter-rouge&quot;&gt;Jam Cams&lt;/code&gt; for traffic surveillance purposes. Thus, it was completely legally to work with this online data set (at least at the time)!&lt;/p&gt;
+
+&lt;p&gt;Due to the way that footage is captured for the API, it was necessary to create a scrapping system that would repeatedly query the API data set. The reason for this was because TFL only uploads 5 second video clips of its CCTV footage every 5 mins. Thus, the approach, as seen below, was to sort through the data and discover which cameras were in the 5 mile radius that Tamara required. From there is the dataset matches our location criteria, we package the data we want into a json object. From this point the next step is to create a &lt;code class=&quot;highlighter-rouge&quot;&gt;fetch()&lt;/code&gt; request to the server we want to send the data files to.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PLEASE NOTE: to attempt this your are required to have a working server that you control with this required storage space and API receiver system inside that server&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point all we need to do is create this simple scrapping function into an interval function (meanign a function that runs periodically using the &lt;code class=&quot;highlighter-rouge&quot;&gt;setinterval()&lt;/code&gt; js function), and tada! You have a CCTV scrapping system that will bestow you with a huge data dump of Jam Cam footage.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;        &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;jamcall&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ev&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+          &lt;span class=&quot;nx&quot;&gt;ev&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;preventDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+          &lt;span class=&quot;nx&quot;&gt;fetch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;https://api.tfl.gov.uk/Place/Type/JamCam&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+              &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;51.4228&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;51.5967&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.3891&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1531&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modified&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+
+                &lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+                  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;media&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+                &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+                &lt;span class=&quot;nx&quot;&gt;fetch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;http://target.API.receiver/&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                  &lt;span class=&quot;na&quot;&gt;method&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;POST&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                  &lt;span class=&quot;na&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;cors&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                  &lt;span class=&quot;na&quot;&gt;credentials&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;omit&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                  &lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;application/json&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+                  &lt;span class=&quot;na&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+
+              &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+
+          &lt;span class=&quot;nx&quot;&gt;setInterval&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;fetch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;https://api.tfl.gov.uk/Place/Type/JamCam&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+              &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+              &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;51.4228&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;51.5967&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.3891&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1531&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+                  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+                  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modified&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+
+                  &lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+                    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;media&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;additionalProperties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+                  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+                  &lt;span class=&quot;nx&quot;&gt;fetch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;http://target.API.receiver/&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                    &lt;span class=&quot;na&quot;&gt;method&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;POST&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;na&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;cors&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;na&quot;&gt;credentials&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;omit&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Content-Type&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;application/json&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+                    &lt;span class=&quot;na&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;camObj&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resJson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                  &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+
+                &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+              &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;300000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+        &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;If you would like to see that actual data dump of this process, please follow this link: &lt;a href=&quot;http://cctv-dump.agorama.org.uk/&quot;&gt;Agorama TfL datadump&lt;/a&gt;.
+Currently, we only have on display the actual day that Tamara request this program to be used.&lt;/p&gt;
+
+&lt;h3 id=&quot;closed-whatsapp-google-street-view-car-search-group-gallery&quot;&gt;Closed Whatsapp Google Street View car search group (Gallery)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/res-reflect2/Whatsapp-grp-1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/res-reflect2/Whatsapp-grp-2.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/res-reflect2/Whatsapp-grp-3.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/res-reflect2/Whatsapp-grp-5.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/res-reflect2/Whatsapp-grp-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tamara-kametanis-my-google-map&quot;&gt;Tamara Kametani’s My Google Map&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1rFaSi2vcBy80ss-csdHdD8Kx9hUYFsGO&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="artist-res" /><summary type="html">Agorama's residency reflection focusing on Tamara Kametani's commission. Swayze Effect. By Alejandro Ball.</summary></entry><entry><title type="html">Residency Reflections: Hazel Brill</title><link href="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html" rel="alternate" type="text/html" title="Residency Reflections: Hazel Brill" /><published>2019-12-09T13:00:00+00:00</published><updated>2019-12-09T13:00:00+00:00</updated><id>http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents</id><content type="html" xml:base="http://localhost:4000/artist-res/2019/12/09/hazel-bill-ml-agents.html">&lt;h1 id=&quot;machine-learning--unity-by-max-dovey&quot;&gt;Machine Learning &amp;amp; Unity by Max Dovey&lt;/h1&gt;
 
 &lt;h2 id=&quot;artist-residency&quot;&gt;Artist Residency&lt;/h2&gt;
 
@@ -711,185 +849,4 @@ Consider adding an LED to turn on when the motion sensor is activated&lt;/p&gt;
 &lt;a href=&quot;https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor?view=all&quot;&gt;Adafruit Guide&lt;/a&gt;
 &lt;a href=&quot;https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio&quot;&gt;Maker Pro Tutorial&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Motion Sensors</summary></entry><entry><title type="html">Sensor IoT Workshop - Heart Rate</title><link href="http://localhost:4000/education/2019/03/16/heart-sensor-rpi.html" rel="alternate" type="text/html" title="Sensor IoT Workshop - Heart Rate" /><published>2019-03-16T13:00:00+00:00</published><updated>2019-03-16T13:00:00+00:00</updated><id>http://localhost:4000/education/2019/03/16/heart-sensor-rpi</id><content type="html" xml:base="http://localhost:4000/education/2019/03/16/heart-sensor-rpi.html">&lt;h3 id=&quot;️-heart-detector-for-arduino-️&quot;&gt;❤️ Heart Detector for Arduino ❤️&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;x1 Arduino uno&lt;/li&gt;
-  &lt;li&gt;x1 pulse sensor&lt;/li&gt;
-  &lt;li&gt;PulseSensor Playground library&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;step-1---wire-up-the-pulse-sensor-to-the-arduino&quot;&gt;Step 1 - Wire up the Pulse Sensor to the Arduino&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-pins.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;RED wire = +3V to +5V&lt;/li&gt;
-  &lt;li&gt;BLACK wire = GND&lt;/li&gt;
-  &lt;li&gt;PURPLE wire = Signal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;step-2---install-pulsesensorplayground-library-for-arduino&quot;&gt;Step 2 - Install PulseSensorPlayground library for Arduino&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the PulseSensor Playground Library, in Arduino, to go ‘'’Sketch &amp;gt; Include Library &amp;gt; Manage Library…’’’&lt;/li&gt;
-  &lt;li&gt;In the Library Manager: Search for and Select “PulseSensor.com&lt;/li&gt;
-  &lt;li&gt;Install or update to the lastest version.+1&lt;/li&gt;
-  &lt;li&gt;Once this library is installed you will see our examples in Arduino’s dropdown! To select an example project, go to:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-lib.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Get the latest Arduino software here [https://github.com/WorldFamousElectronics/PulseSensorPlayground] (https://github.com/WorldFamousElectronics/PulseSensorPlayground)
-Follow the README guide to get set up, or follow this Getting Started Tutorial
-For Arduino IDE download: &lt;a href=&quot;https://www.arduino.cc/en/Main/Software&quot;&gt;https://www.arduino.cc/en/Main/Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Connect the Pulse Sensor to: +V (red), Ground (black), and Analog Pin 0 (purple) on your favorite Arduino, or Arduino compatible device, Then find the Getting Started sketch by clicking
-    File &amp;gt; Examples &amp;gt; PulseSensor Playground &amp;gt; A_StarterProject_and_SignalTester&lt;/p&gt;
-
-&lt;h4 id=&quot;step-3---connect-the-sensor-to-the-body&quot;&gt;Step 3 - Connect the sensor to the body&lt;/h4&gt;
-
-&lt;p&gt;The pulse sensor works by being attached to either earlobe or end of finger. If you’re having trouble seeing a heartbeat, make sure that you are using ‘Goldilocks’ pressure on the Pulse Sensor: Not too hard, not too soft. Squeezing the Pulse Sensor too hard against your skin will make the heartbeat go away, and not enough pressure will cause too much noise to creep in!
-If this code is reading too many Beats Per Minute, or you are getting lots of noise, try adjusting the Threshold setting. The Threshold variable tells Arduino when to find a pulse that is legit. Adjust the Threshold value (noted above with arrows).  The Threshold can be any number between 0-1024, but try adjusting by steps of 5 or 10.  Decreasing the Threshold increases the sensitivity.  Increasing the Threshold decreases the sensitivity.&lt;/p&gt;
-
-&lt;h4 id=&quot;step-4---attach-led-optional&quot;&gt;Step 4 - attach led (optional)&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/images/pulsesensor-lib.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;pro tip - you can also just stick an LED directly into pin 13 and ground!
-This is a helpful guide for getting started with the PulseSensor
-&lt;a href=&quot;https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit&quot;&gt;https://docs.google.com/document/d/1d8EwDcXH1AZpIpEnrET28EBgStrbkbppxjQZcNRAlkI/edit&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;-️-heart-detector-for-raspberry-pi-️&quot;&gt;### ❤️ Heart Detector for Raspberry Pi ❤️&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/mpc30081.jpeg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/images/mpc3008adc.gif&quot; alt=&quot;&quot; /&gt;
-This guide will show you an easier way to install and use new Python code to talk to the MCP3008 ADC.&lt;/p&gt;
-
-&lt;p&gt;The MCP3008 datasheet is also an important resource to skim and have handy.&lt;/p&gt;
-
-&lt;h1 id=&quot;wiring&quot;&gt;Wiring&lt;/h1&gt;
-&lt;p&gt;The MCP3008 connects to the Raspberry Pi using a SPI serial connection.  You can use either the hardware SPI bus, or any four GPIO pins and software SPI to talk to the MCP3008.  Software SPI is a little more flexible since it can work with any pins on the Pi, whereas hardware SPI is slightly faster but less flexible because it only works with specific pins.  If you aren’t sure which to use I recommend software SPI as it’s easier to setup.&lt;/p&gt;
-
-&lt;p&gt;Before you can wire the chip to the Pi you first need to place it into a breadboard.  If you haven’t used bare DIP chips like the MCP3008 before you want to press it into the breadboard so its legs straddle the empty channel in the middle of the breadboard.  This way you can access each of the legs of the chip from the breadboard.&lt;/p&gt;
-
-&lt;p&gt;Note that the orientation of the chip matters!  Be sure to place it with the half circle indention and dot towards the top.  See the photo below for an example:&lt;/p&gt;
-
-&lt;h1 id=&quot;software-spi&quot;&gt;Software SPI&lt;/h1&gt;
-&lt;p&gt;To connect the MCP3008 to the Raspberry Pi with a software SPI connection you need to make the following connections:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;MCP3008 VDD to Raspberry Pi 3.3V&lt;/li&gt;
-  &lt;li&gt;MCP3008 VREF to Raspberry Pi 3.3V&lt;/li&gt;
-  &lt;li&gt;MCP3008 AGND to Raspberry Pi GND&lt;/li&gt;
-  &lt;li&gt;MCP3008 DGND to Raspberry Pi GND&lt;/li&gt;
-  &lt;li&gt;MCP3008 CLK to Raspberry Pi pin 18&lt;/li&gt;
-  &lt;li&gt;MCP3008 DOUT to Raspberry Pi pin 23&lt;/li&gt;
-  &lt;li&gt;MCP3008 DIN to Raspberry Pi pin 24&lt;/li&gt;
-  &lt;li&gt;MCP3008 CS/SHDN to Raspberry Pi pin 25&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that you can swap the MCP3008 CLK, DOUT, DIN, and CS/SHDN pins to any other free digital GPIO pins on the Raspberry Pi.  You’ll just need to modify the example code to use your pins.&lt;/p&gt;
-
-&lt;h1 id=&quot;library-install&quot;&gt;Library Install&lt;/h1&gt;
-&lt;p&gt;After you’ve wired the MCP3008 to the Raspberry Pi with either the software or hardware SPI wiring you’re ready to install the Adafruit MCP3008 Python library.&lt;/p&gt;
-
-&lt;p&gt;You can install the library from the Python package index with a few commands, or you can install the library from its source on GitHub.  Pick one of these options below.  If you aren’t sure I recommend installing from source on GitHub because it will also download examples to use the library.&lt;/p&gt;
-
-&lt;p&gt;Note that before you install the library your Raspberry Pi must be connected to the internet through a wired or wireless network connection.&lt;/p&gt;
-
-&lt;h1 id=&quot;install-dependencies&quot;&gt;Install dependencies&lt;/h1&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update
-sudo apt-get install build-essential python-dev python-smbus git
-cd ~
-git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git
-cd Adafruit_Python_MCP3008
-sudo python setup.py install
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h1 id=&quot;edit-the-code&quot;&gt;Edit the code&lt;/h1&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;nano simpletest.py
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Software SPI configuration:
-CLK  = 18
-MISO = 23
-MOSI = 24
-CS   = 25
-mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
-
-# Hardware SPI configuration:
-# SPI_PORT   = 0
-# SPI_DEVICE = 0
-# mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;The example will print out a table with all of the ADC channels and their values.  Every half second a new row will be printed with the latest channel values.  For example you might see output like:
-&lt;img src=&quot;/images/adc-example.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you have a signal coming in from the ADC you can begin to develop the code to do different things, like turn on an LED for every hear beats
-e.g.
-&lt;img src=&quot;/images/heart-example-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The code below takes an average reading and flashes an LED (on GPIO 2) when it detects a heartbeat&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Simple example of reading the MCP3008 analog input channels
-# Author: Tony DiCola
-# License: Public Domain
-import time
-# Import SPI library (for hardware SPI) and MCP3008 library.
-import Adafruit_GPIO.SPI as SPI
-import Adafruit_MCP3008
-import RPi.GPIO as GPIO           # import RPi.GPIO module
-
-
-GPIO.setmode(GPIO.BCM)            # choose BCM or BOARD
-GPIO.setup(2, GPIO.OUT) # set a port/pin as an output
-
-# Software SPI configuration:
-CLK  = 18
-MISO = 23
-MOSI = 24
-CS   = 25
-mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
-
-MAX_HISTORY = 250
-
-# Maintain a log of previous values to
-# determine min, max and threshold.
-history = []
-
-print('Press Ctrl-C to quit...')
-while True:
-    # Grab the difference between channel 0 and 1 (i.e. channel 0 minus 1).
-    # Note you can specify any value in 0-7 to grab other differences:
-    #  - 0: Return channel 0 minus channel 1
-    #  - 1: Return channel 1 minus channel 0
-    #  - 2: Return channel 2 minus channel 3
-    #  - 3: Return channel 3 minus channel 2
-    #  - 4: Return channel 4 minus channel 5
-    #  - 5: Return channel 5 minus channel 4
-    #  - 6: Return channel 6 minus channel 7
-    #  - 7: Return channel 7 minus channel 6
-    v = mcp.read_adc(1)
-    # print('Channel 1: {0}'.format(v))
-    # time.sleep(0.5)
-    history.append(v)
-
-    # Get the tail, up to MAX_HISTORY length
-    history = history[-MAX_HISTORY:]
-
-    minima, maxima = min(history), max(history)
-
-    threshold_on = (minima + maxima * 3) // 4   # 3/4
-    threshold_off = (minima + maxima) // 2      # 1/2
-
-    if v &amp;gt; threshold_on:
-        GPIO.output(2, True)
-
-    if v &amp;lt; threshold_off:
-       GPIO.output(2, False)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;References
-&lt;a href=&quot;https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008#library-install-2-11&quot;&gt;Adafruit MPC3008 tutotorial&lt;/a&gt;
-&lt;a href=&quot;https://www.twobitarcade.net/article/wemos-heart-rate-sensor-display-micropython/&quot;&gt;Heart Beat BPM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;pg6.md&quot;&gt;Next&lt;/a&gt;
-&lt;a href=&quot;pg4.md&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Heart Sensors</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/terminal-commands.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="education" /><summary type="html">Working with RPI and Motion Sensors</summary></entry></feed>
