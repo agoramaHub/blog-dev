@@ -1,10 +1,12 @@
 ---
+title: 'Residency Reflections: Tamara Kametani'
+date: 2019-12-10 13:00:00 Z
+categories:
+- artist-res
 layout: post
-title:  "Residency Reflections: Tamara Kametani"
-date:   2019-12-10 13:00:00 0000
-categories: artist-res
-thumbnail: /img/res-reflect2/Kametani_T_04.jpg
-excerpt: Agorama's residency reflection focusing on Tamara Kametani's commission. Swayze Effect. By Alejandro Ball.
+thumbnail: "/img/res-reflect2/Kametani_T_04.jpg"
+excerpt: Agorama's residency reflection focusing on Tamara Kametani's commission.
+  Swayze Effect. By Alejandro Ball.
 ---
 
 ### Chasing the Google Map's Car by Alejandro Ball
