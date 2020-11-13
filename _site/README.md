@@ -7,5 +7,3 @@ some handy commands
 bundle exec jekyll serve
 bundle exec jekyll build
 ```
-test webhook push
-test webhook push2

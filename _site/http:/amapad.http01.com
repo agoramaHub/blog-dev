@@ -11,13 +11,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Agorama main home page." />
 <meta property="og:description" content="Agorama main home page." />
+<link rel="canonical" href="http://localhost:4000/http:/amapad.http01.com" />
+<meta property="og:url" content="http://localhost:4000/http:/amapad.http01.com" />
 <meta property="og:site_name" content="Agorama" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Agorama" />
 <script type="application/ld+json">
-{"description":"Agorama main home page.","@type":"WebPage","headline":"Agorama","url":"/http:/amapad.http01.com","@context":"https://schema.org"}</script>
+{"description":"Agorama main home page.","@type":"WebPage","url":"http://localhost:4000/http:/amapad.http01.com","headline":"Agorama","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Agorama" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title glitch-link" rel="author" href="/">
@@ -246,33 +248,6 @@
 
                 <!-- Thumbnail insertion -->
                 <div>
-                  <a class="post-link" href="/education/2018/11/07/building-a-polygraph.html">
-                  
-                    <img src="/img/lie-detector-test1.jpg" style="height: 280px" />
-                  
-                  </a>
-                </div>
-
-                <!-- Rest of Post listing insertion -->
-                <div><span class="post-meta">Nov 7, 2018</span>
-                  <h3>
-                    <a class="post-link" href="/education/2018/11/07/building-a-polygraph.html">
-                      <span class="glitch">
-                      How to build a polygraph prototype
-                      </span>
-                    </a>
-                  </h3>How to build a lie detector with Arduino</div>
-
-                
-                <hr style="margin-top: 1rem;">
-                
-
-      </li>
-      
-      <li>
-
-                <!-- Thumbnail insertion -->
-                <div>
                   <a class="post-link" href="/education/2018/11/07/dat-server-node-tutorial.html">
                   
                     <img src="/img/webjam2/3.jpeg" style="height: 280px" />
@@ -289,6 +264,33 @@
                       </span>
                     </a>
                   </h3>Tutorial notes for creating a localised Dat pinning service. Part of Agorama's Mozfest 2018 workshop.</div>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2018/11/07/building-a-polygraph.html">
+                  
+                    <img src="/img/lie-detector-test1.jpg" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Nov 7, 2018</span>
+                  <h3>
+                    <a class="post-link" href="/education/2018/11/07/building-a-polygraph.html">
+                      <span class="glitch">
+                      How to build a polygraph prototype
+                      </span>
+                    </a>
+                  </h3>How to build a lie detector with Arduino</div>
 
                 
                 <hr style="margin-top: 1rem;">
