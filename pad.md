@@ -1,7 +1,7 @@
 ---
 layout: home2
 category: Texts
-permalink: http://amapad.http01.com
+permalink: http%3A//amapad.http01.com
 ---
 
 ## PAD
