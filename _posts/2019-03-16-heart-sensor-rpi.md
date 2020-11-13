@@ -1,11 +1,13 @@
 ---
+title: Sensor IoT Workshop - Heart Rate
+date: 2019-03-16 13:00:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop - Heart Rate"
-date:   2019-03-16 13:00:00 0000
-categories: education
-thumbnail: /img/pulsesensor-pins.png
+thumbnail: "/img/pulsesensor-pins.png"
 excerpt: Working with RPI and Heart Sensors
 ---
+
 ### ❤️ Heart Detector for Arduino ❤️
 
 * x1 Arduino uno

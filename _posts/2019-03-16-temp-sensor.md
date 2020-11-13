@@ -1,9 +1,10 @@
 ---
+title: Sensor IoT Workshop - Temperature
+date: 2019-03-16 12:45:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop - Temperature"
-date:   2019-03-16 12:45:00 0000
-categories: education
-thumbnail: /images/temp-sensor-pic-small.jpg
+thumbnail: "/images/temp-sensor-pic-small.jpg"
 excerpt: Working with RPI and Temperature Sesnors
 ---
 

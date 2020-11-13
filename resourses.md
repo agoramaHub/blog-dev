@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Resources
-permalink: /resources/
+permalink: "/resources/"
+layout: page
 ---
+
 ## Artworks, Games & Experiments
 * [Dat-swarm](dat://swarm.hashbase.io/)
 * [Dat-Zine Library](dat://zine-library.coolguy.website/)

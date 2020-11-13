@@ -1,9 +1,10 @@
 ---
+title: Sensor IoT Workshop - Websockets
+date: 2019-03-15 12:30:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop - Websockets"
-date:   2019-03-15 12:30:00 0000
-categories: education
-thumbnail: /images/websocket.png
+thumbnail: "/images/websocket.png"
 excerpt: Working with RPI and Websockets
 ---
 

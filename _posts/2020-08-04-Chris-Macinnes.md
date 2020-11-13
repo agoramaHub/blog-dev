@@ -1,10 +1,12 @@
 ---
+title: Christopher Macinnes - Artist Residency Program 2020
+date: 2020-08-04 13:00:00 Z
+categories:
+- artist-res
 layout: post
-title:  "Christopher Macinnes - Artist Residency Program 2020"
-date:   2020-08-04 13:00:00 0000
-categories: artist-res
-thumbnail: /img/res01/rpg2.png
-excerpt: We are very pleased to announce Christopher Macinnes as the first artist to take part in our (online) residency program for 2020!
+thumbnail: "/img/res01/rpg2.png"
+excerpt: We are very pleased to announce Christopher Macinnes as the first artist
+  to take part in our (online) residency program for 2020!
 ---
 
 ![alt-text](/img/res01/rpg2.png)

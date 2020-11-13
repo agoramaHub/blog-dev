@@ -1,11 +1,13 @@
 ---
+title: Scuttlebutt-haloween-hackathon & Mozfest
+date: 2018-11-02 12:50:01 Z
+categories:
+- server-co-op
 layout: post
-title:  "Scuttlebutt-haloween-hackathon & Mozfest"
-date:   2018-11-02 12:50:01 0000
-categories: server-co-op
-thumbnail: /img/moztweet.png
+thumbnail: "/img/moztweet.png"
 excerpt: Pictures and Notes from ScuttleButt Session
 ---
+
 ![alt](/img/ssb-agorama1.png)
 
 Back on Thursday 18th October we invited Kieran from [Ten Thousand Things](https://tenthousandthings.org.uk/) and [Andrea Garzia](http://andregarzia.com/) to lead an introduction to the distributed messaging application [Scuttlebutt](https://www.scuttlebutt.nz/). The workshop cleverly demonstrated some of the core features of Scuttlebutt and also showed how friends and feeds work on the platform. Kieran and Andrea made a x3 hotspots that were not connected to the internet, just local networks called MARS, EARTH and SPACE. The room divided into different groups depending on what wifi network you connected to. This demonstrated how Scuttlebutt synchronizes between client computers without requiring an internet connection or ISP (Internet Service provider) essentially offline communication. HOWEVER, we on mars could not read or see any of the communication of the earthlings because the syncornization of SSB archives (essentially the chat log) was just taking place between all the people on EARTH. Without wanting to give the whole workshop away, lots of encounters play out over the distributed messaging application scuttlebutt and is a good way to exercises the actual realities of using offline, distributed communication networks. Some thoughts - news is no longer immediete, it syncronises when your friend that you follow logs on and your filter bubble is determined by who your friends follow. There is lots of interesting values and principles to explore in this emerging community around p2p offline messaging and lots to read [here](https://www.scuttlebutt.nz/concepts/) in the meantime, we will be using #agorama hashtag on the scuttlebutt platform to post updates. 

@@ -1,9 +1,10 @@
 ---
+title: Sensor IoT Workshop
+date: 2019-03-18 15:00:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop"
-date:   2019-03-18 15:00:00 0000
-categories: education
-thumbnail: /images/rpi.png
+thumbnail: "/images/rpi.png"
 excerpt: Getting Started with the Raspberry Pi
 ---
 

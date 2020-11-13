@@ -1,13 +1,12 @@
 ---
+title: Sensor IoT Workshop - Light
+date: 2019-03-18 12:45:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop - Light"
-date:   2019-03-18 12:45:00 0000
-categories: education
-thumbnail: /images/light-sensor.jpg
+thumbnail: "/images/light-sensor.jpg"
 excerpt: Working with RPI and Photoresistors
 ---
-
-
 
 # Photo resistor (Light Sensor)
 

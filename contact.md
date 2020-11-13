@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
+
 Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a><br>
 From July 2017 Agorama is now located at the top floor flat of [Raven Row](http://ravenrow.org) next to Spitafields, East London.
 

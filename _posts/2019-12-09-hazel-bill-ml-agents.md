@@ -1,10 +1,12 @@
 ---
+title: 'Residency Reflections: Hazel Brill'
+date: 2019-12-09 13:00:00 Z
+categories:
+- artist-res
 layout: post
-title:  "Residency Reflections: Hazel Brill"
-date:   2019-12-09 13:00:00 0000
-categories: artist-res
-thumbnail: /img/res-reflect1/outtosea0028-small.jpg
-excerpt: Agorama's residency reflection focusing on Hazel Brill's commission. Swayze Effect. By Max Dovey.
+thumbnail: "/img/res-reflect1/outtosea0028-small.jpg"
+excerpt: Agorama's residency reflection focusing on Hazel Brill's commission. Swayze
+  Effect. By Max Dovey.
 ---
 
 # Machine Learning & Unity by Max Dovey

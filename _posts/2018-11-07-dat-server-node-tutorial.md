@@ -1,10 +1,12 @@
 ---
+title: Dat Server Node Tutorial
+date: 2018-11-07 12:30:00 Z
+categories:
+- education
 layout: post
-title:  "Dat Server Node Tutorial"
-date:   2018-11-07 12:30:00 0000
-categories: education
-thumbnail: /img/webjam2/3.jpeg
-excerpt: Tutorial notes for creating a localised Dat pinning service. Part of Agorama's Mozfest 2018 workshop.
+thumbnail: "/img/webjam2/3.jpeg"
+excerpt: Tutorial notes for creating a localised Dat pinning service. Part of Agorama's
+  Mozfest 2018 workshop.
 ---
 
 ### Install Dat CLI + Homebase Dat Pinning Server

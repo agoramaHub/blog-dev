@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Projects
-permalink: /projects/
+permalink: "/projects/"
+layout: page
 ---
 
 <h4><a class="glitch-link" href="/projects/server-co-op/"><span class="glitch">Server Co-op</span></a></h4>

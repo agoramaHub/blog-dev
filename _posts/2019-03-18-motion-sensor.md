@@ -1,9 +1,10 @@
 ---
+title: Sensor IoT Workshop - Motion
+date: 2019-03-18 12:30:00 Z
+categories:
+- education
 layout: post
-title:  "Sensor IoT Workshop - Motion"
-date:   2019-03-18 12:30:00 0000
-categories: education
-thumbnail: /images/motion-sensor.jpg
+thumbnail: "/images/motion-sensor.jpg"
 excerpt: Working with RPI and Motion Sensors
 ---
 

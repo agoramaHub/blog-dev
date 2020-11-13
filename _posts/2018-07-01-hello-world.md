@@ -1,9 +1,10 @@
 ---
+title: Hello World!!
+date: 2018-07-01 22:16:01 Z
+categories:
+- education
 layout: post
-title:  "Hello World!!"
-date:   2018-07-01 16:16:01 -0600
-categories: education
-thumbnail: /images/wide3.jpg
+thumbnail: "/images/wide3.jpg"
 ---
 
 This is the first post for agorama's new micro blog web-page.... To celebrate lets take in all of the different examples we can find of *hello world* programming proof of concepts Agorama will be using....

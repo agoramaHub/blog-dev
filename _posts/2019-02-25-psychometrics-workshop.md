@@ -1,9 +1,10 @@
 ---
+title: Psychometrics and Artificial Intelligence
+date: 2019-02-25 13:30:00 Z
+categories:
+- education
 layout: post
-title:  "Psychometrics and Artificial Intelligence"
-date:   2019-02-25 13:30:00 0000
-categories: education
-thumbnail: /img/PAS-Journal.jpg
+thumbnail: "/img/PAS-Journal.jpg"
 excerpt: How to interpret a psychopath
 ---
 

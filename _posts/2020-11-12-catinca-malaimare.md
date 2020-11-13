@@ -1,10 +1,12 @@
 ---
+title: Catinca Malaimare - Artist Residency Program 2020
+date: 2020-11-12 13:00:00 Z
+categories:
+- artist-res
 layout: post
-title:  "Catinca Malaimare - Artist Residency Program 2020"
-date:   2020-11-12 13:00:00 0000
-categories: artist-res
-thumbnail: /img/1-web-med2.jpeg
-excerpt: Catinca Malaimare brings her performative practice to Agorama's artist residency program 
+thumbnail: "/img/1-web-med2.jpeg"
+excerpt: Catinca Malaimare brings her performative practice to Agorama's artist residency
+  program
 ---
 
 ![alt-text](/img/1-web-med2.jpeg)

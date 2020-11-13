@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Education
-permalink: /education/
+permalink: "/education/"
+layout: page
 ---
 
 Welcome to Agorama's repository of educational material used for teaching and workshops in developing p2p web applications and self-hosting. Each tutorial has been produced collectively for workshops and group classes. It is recommended to use [Beaker Browser](https://beakerbrowser.com/) (or have a markdown viewer) as all the material is written in markdown. Each tutorial can be forked and edited for your own use.

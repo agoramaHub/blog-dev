@@ -1,11 +1,11 @@
 ---
+title: Upcoming Residency Programme!
+date: 2019-01-30 12:30:00 Z
+categories:
+- artist-res
 layout: post
-title:  "Upcoming Residency Programme!"
-date:   2019-01-30 12:30:00
-categories: artist-res
-thumbnail: /img/rebeccas/-1.jpg
+thumbnail: "/img/rebeccas/-1.jpg"
 ---
-
 
 Agorama is a collective of creative practitioners who engage with  three main threads of activities. The first, Server Co-op intends to establish a peer-to-peer distributed platform for artist experimentation and to use this network infrastructure to develop a grass-roots autonomous model for digital communication.
 

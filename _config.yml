@@ -1,36 +1,38 @@
+---
 title: Agorama
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: img
+  values:
+    image: true
+- scope:
+    path: images
+  values:
+    image: true
 email: admin@agorama.org.uk
 description: Agorama main home page.
 twitter_username: agorama_
-github_username:  agoramaHub
+github_username: agoramaHub
 instagram_username: agorama_
-keep_files: [.dat, .datignore, dat.json, robots.txt]
-defaults:
-  - scope:
-      path: "img"
-    values:
-      image: true
-  - scope:
-      path: "images"
-    values:
-      image: true
-
-# Build settings
+keep_files:
+- ".dat"
+- ".datignore"
+- dat.json
+- robots.txt
 markdown: kramdown
 excerpt_separator: "<!--more-->"
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
 iis_slider_array: []
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+- Gemfile
+- Gemfile.lock
