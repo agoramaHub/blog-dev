@@ -19,8 +19,6 @@ The project is called [Paint Your Face Away](https://paintyourfaceaway.net) and 
 
 Through interacting with the tool audiences are able to learn when a face is no longer a face in the eyes of facial recognition software and contribute to an alternative facial database of adverserial self-portraits.
 
-\:-)
-
 ![alt-text](/img/pyfa/shinji1.jpg)
 
 <br>
