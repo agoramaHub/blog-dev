@@ -12,8 +12,6 @@ excerpt: Catinca Malaimare brings her performative practice to Agorama's artist
 
 *"On nights with enough lighting, we are illuminated by light reflected off the Cloud. Where the source of illumination is the dominant spectral line of gold-tinted light scattered at the highest luminance in our faces, we watch with an eye insensitive to other visual pollutants. The nighttime is tinged with yellow biased daylight, and we’re concealed and observant, corner-hidden in the darkest side of the glow dome."*
 
-:-)
-
 Following on from our collaboration with Offsite Projects artist [Catinca Malaimare](https://www.catincamalaimare.com/) is are second artist in residence for our online residency program. 
 
 For her ZIP residency in June Catinca produced 'Lo Sodium' a series of performative rituals that dramatised our complex compansionship with technology through a series of chorographed interactions and a short story.  Catinca situates herself in and around a large pair of stage lights and invites the viewer to explore these majestic mechanical objects in a theatrical sense, delibreately demanding a discomforting intensity from the viewer and asking us to share the awkward physical presence of these regal (but sadly now redundant) tecnological artefacts. 
