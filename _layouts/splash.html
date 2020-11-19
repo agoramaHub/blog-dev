@@ -13,7 +13,10 @@ Roadmap...
 <!--
 Boiler plate for original slpash page content layout
 -->
+<head>
 
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
 <article class="post">
   
   {% slider 480 captions %}
@@ -89,6 +92,20 @@ Boiler plate for original slpash page content layout
     {% endfor %}
   </div>
  
+
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+
 </body>
 
 <!--
