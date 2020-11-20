@@ -1,10 +1,9 @@
 ---
 title: About
-permalink: "/about/"
+permalink: /about/
 layout: page
 order: 1
 ---
-
 Agorama is Alejandro Ball, Inês Costa, Max Dovey and Anna Viani, a London based collective of creative practitioners focusing on the critical exploration of digital network culture through public events, artist residencies, exhibitions and collective research groups, currently in Residency at [Raven Row](http://www.ravenrow.org/), London.
 
 As part of our core mission we run three main threads of activities: [Server Co-op](projects/server-co-op/) that aims to establish a p2p distributed platform for artist experimentation and develop a grass-roots autonomous model for digital communication; [Workshops](projects/edu/) that focus on digital literacy, providing practitioners with guides and tools to learn from and expand their practice and [Residencies & Exhibitions](projects/art/) to aid the development of new interdisciplinary projects informed by technology and p2p networks by inviting other creative practitioners to use our facilities for a month or longer, receive technical support and mentoring.
@@ -20,3 +19,5 @@ As part of our core mission we run three main threads of activities: [Server Co-
 [The Bank for Argumentation](http://thebankforargumentation.agorama.org.uk/) - Artist Diogo da Cruz - WORDCOIN, proposes the implementation of a new currency, that will give a literal value to each one’s speech. With the realisation of The Bank for Argumentation, the customer/museum-goer will have the opportunity to trust his/her arguments to an institution that can store them and, allow for these arguments to be exchanged with other members of the bank. Project was supported by Creative Scotland.
 
 [I keep forgetting I’ve been to Tokyo: GAIDEN](http://tokyogaiden.agorama.org.uk/) - Artist Petra Szemán - part of a distributed artwork, consisting of a three-channel animation video accompanied by a sound piece, and the above linked website. The context of the project follows a virtual self through parallel and intersecting realities, along the departure-initiation-return of *the hero’s journey*. Drawing upon personal and/or constructed experiences, the online portion explores the idea of a non-localised identity, an archive of accumulated personal mythologies acquired from a multitude of realities. Project was supported by Creative Scotland.
+
+:-)
