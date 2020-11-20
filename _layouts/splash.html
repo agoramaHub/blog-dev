@@ -32,6 +32,10 @@ Boiler plate for original slpash page content layout
 </div>
 <header class="post-header">
   <h1 class="post-title">{{ page.title | escape }}</h1>
+  
+    {% for category in site.categories %}
+    <a class="categories" href="/projects/{{ category | first }}">{{category|first}}</a>
+    {% endfor %}   
 </header>
 
   <!-- <hr> -->
@@ -40,8 +44,8 @@ Boiler plate for original slpash page content layout
     <h3> Latest posts</h3>
 
     {% for post in site.posts limit: 3%}
-    <ul class="post-list">
 
+    <ul class="post-list">
 
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -65,15 +69,12 @@ Boiler plate for original slpash page content layout
         {%- if post.excerpt -%}
           {{ post.excerpt }}
         {%- endif -%}
-        <br>
-        <a href="{{ post.url | relative_url }}">
-        {%- if post.categories -%}
-        {{ post.categories }}
-      {%- endif -%}
-    </a>
-
       </li>
-      <hr>
+
+
+        {%- if post.categories -%}
+        {%- endif -%}
+        <a class= "categories" href="/projects/{{ post.categories  }}">{{ post.categories  }}</a>
 </article>
 
 <body>

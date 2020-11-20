@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Agorama" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/http:/amapad.http01.com","description":"Agorama main home page.","headline":"Agorama","@type":"WebPage","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/http:/amapad.http01.com","headline":"Agorama","description":"Agorama main home page.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
 <body><header class="site-header" role="banner">

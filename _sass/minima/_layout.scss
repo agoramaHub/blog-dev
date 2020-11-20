@@ -209,9 +209,14 @@ hr {
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  padding-top: 1.2rem;
 }
 
-
+.categories {
+  box-sizing: border-box;
+  padding: 0.4rem;
+  border: 1px solid #a5a5a5;
+}
 
 /**
  * Posts

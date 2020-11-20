@@ -4,17 +4,19 @@ date: 2020-11-12 13:00:00 Z
 categories:
   - artist-res
 layout: post
-thumbnail: /img/1-web-med2.jpeg
+thumbnail: /img/catinca-1.jpg
 excerpt: Catinca Malaimare brings her performative practice to Agorama's artist
   residency program
 ---
-![alt-text](/img/1-web-med2.jpeg)
+![alt-text](/img/catinca-1.jpg)
 
 *"On nights with enough lighting, we are illuminated by light reflected off the Cloud. Where the source of illumination is the dominant spectral line of gold-tinted light scattered at the highest luminance in our faces, we watch with an eye insensitive to other visual pollutants. The nighttime is tinged with yellow biased daylight, and we’re concealed and observant, corner-hidden in the darkest side of the glow dome."*
 
 Following on from our collaboration with Offsite Projects artist [Catinca Malaimare](https://www.catincamalaimare.com/) is are second artist in residence for our online residency program. 
 
 For her ZIP residency in June Catinca produced 'Lo Sodium' a series of performative rituals that dramatised our complex companionship with technology through a series of chorographed interactions and a short story.  Catinca situates herself in and around a large pair of stage lights and invites the viewer to explore these majestic mechanical objects in a theatrical sense, delibreately demanding a discomforting intensity from the viewer and asking us to share the awkward physical presence of these regal (but sadly now redundant) tecnological artefacts. 
+
+![alt-text](/img/catinca-2a.jpg)
 
 As part of her residency with us at Agorama, Catinca has been experimenting with two TV’s that rebelled against convention, the Philips Discoverer space helmet TV manufactured in the 1980s (see image) under the disguise that they are “worth looking at even when it’s off”. The uncomfortable reality that our machines are dance partners, closer than we are ready to admit, prompted us to work together on the construction of a pair of stage lights where bodies mimic one another.
 
