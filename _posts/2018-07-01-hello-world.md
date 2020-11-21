@@ -3,6 +3,7 @@ title: Hello World!!
 date: 2018-07-01 22:16:01 Z
 categories:
 - education
+tags: code
 layout: post
 thumbnail: "/images/wide3.jpg"
 ---

@@ -3,6 +3,7 @@ title: Sensor IoT Workshop - Light
 date: 2019-03-18 12:45:00 Z
 categories:
 - education
+tags: IoT raspberry-pi
 layout: post
 thumbnail: "/images/light-sensor.jpg"
 excerpt: Working with RPI and Photoresistors

@@ -1,8 +1,9 @@
 ---
 title: Sensor IoT Workshop
-date: 2019-03-18 15:00:00 Z
+date: 2019-03-18 15:00:00 
 categories:
 - education
+tags: raspberry-pi IoT
 layout: post
 thumbnail: "/images/rpi.png"
 excerpt: Getting Started with the Raspberry Pi

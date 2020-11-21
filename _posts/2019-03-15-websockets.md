@@ -3,6 +3,7 @@ title: Sensor IoT Workshop - Websockets
 date: 2019-03-15 12:30:00 Z
 categories:
 - education
+tags: IoT raspberry-pi
 layout: post
 thumbnail: "/images/websocket.png"
 excerpt: Working with RPI and Websockets

@@ -3,6 +3,7 @@ title: How to build a polygraph prototype
 date: 2018-11-07 12:30:00 Z
 categories:
 - education
+tags: IoT
 layout: post
 thumbnail: "/img/lie-detector-test1.jpg"
 excerpt: How to build a lie detector with Arduino

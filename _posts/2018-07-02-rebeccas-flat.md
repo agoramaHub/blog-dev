@@ -2,7 +2,7 @@
 title: Rebecca's Flat
 date: 2018-07-02 22:16:01 Z
 categories:
-- server-co-op
+- artist-res
 layout: post
 excerpt: Agorama is one of the new residences in Raven Row's incubation project!
 ---

@@ -2,7 +2,8 @@
 title: Scuttlebutt-haloween-hackathon & Mozfest
 date: 2018-11-02 12:50:01 Z
 categories:
-- server-co-op
+- education
+tags: web p2p
 layout: post
 thumbnail: "/img/moztweet.png"
 excerpt: Pictures and Notes from ScuttleButt Session

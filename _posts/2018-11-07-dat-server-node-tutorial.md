@@ -3,6 +3,7 @@ title: Dat Server Node Tutorial
 date: 2018-11-07 12:30:00 Z
 categories:
 - education
+tags: web code
 layout: post
 thumbnail: "/img/webjam2/3.jpeg"
 excerpt: Tutorial notes for creating a localised Dat pinning service. Part of Agorama's

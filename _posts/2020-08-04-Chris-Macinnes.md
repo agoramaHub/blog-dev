@@ -3,6 +3,7 @@ title: Christopher Macinnes - Artist Residency Program 2020
 date: 2020-08-04 13:00:00 Z
 categories:
 - artist-res
+tags: web
 layout: post
 thumbnail: "/img/res01/rpg2.png"
 excerpt: We are very pleased to announce Christopher Macinnes as the first artist

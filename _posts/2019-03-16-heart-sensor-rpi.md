@@ -3,6 +3,7 @@ title: Sensor IoT Workshop - Heart Rate
 date: 2019-03-16 13:00:00 Z
 categories:
 - education
+tags: IoT raspberry-pi
 layout: post
 thumbnail: "/img/pulsesensor-pins.png"
 excerpt: Working with RPI and Heart Sensors

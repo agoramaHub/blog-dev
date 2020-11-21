@@ -3,6 +3,7 @@ title: 'Residency Reflections: Hazel Brill'
 date: 2019-12-09 13:00:00 Z
 categories:
 - artist-res
+tags: ML code
 layout: post
 thumbnail: "/img/res-reflect1/outtosea0028-small.jpg"
 excerpt: Agorama's residency reflection focusing on Hazel Brill's commission. Swayze

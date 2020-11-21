@@ -3,6 +3,7 @@ title: Sensor IoT Workshop - Temperature
 date: 2019-03-16 12:45:00 Z
 categories:
 - education
+tags: IoT raspberry-pi
 layout: post
 thumbnail: "/images/temp-sensor-pic-small.jpg"
 excerpt: Working with RPI and Temperature Sesnors

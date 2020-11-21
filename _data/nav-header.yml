@@ -1,17 +1,20 @@
 docs_list_title: Navigation Header
 docs:
 
-- title: About
-  url: /about/
-
 - title: Projects
   url: /projects/
 
-- title: Texts
+- title: Residencies
+  url: /projects/artist-res/
+
+- title: Workshops
+  url: /projects/education/
+
+- title: Pad
   url: http://amapad.bot.nu/
 
-- title: Resources
-  url: /resources/
+- title: About
+  url: /about/
 
 - title: Contact
   url: /contact/

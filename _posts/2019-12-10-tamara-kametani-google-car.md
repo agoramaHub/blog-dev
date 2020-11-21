@@ -3,6 +3,7 @@ title: 'Residency Reflections: Tamara Kametani'
 date: 2019-12-10 13:00:00 Z
 categories:
 - artist-res
+tags: web code
 layout: post
 thumbnail: "/img/res-reflect2/Kametani_T_04.jpg"
 excerpt: Agorama's residency reflection focusing on Tamara Kametani's commission.

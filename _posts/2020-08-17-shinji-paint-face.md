@@ -3,6 +3,7 @@ title: Shinji Toya - Paint Your Face Away
 date: 2020-08-17 13:00:00 Z
 categories:
 - artist-res
+tags: ML web
 thumbnail: "/img/pyfa/shinji-web-site-fullwidth.png"
 excerpt: Over the summer Alejandro lent a hand to help develop Shinji Toya latest
   interactive art project, Paint Your Face Away.

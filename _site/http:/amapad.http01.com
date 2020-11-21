@@ -19,7 +19,16 @@
 <script type="application/ld+json">
 {"@type":"WebPage","url":"http://localhost:4000/http:/amapad.http01.com","headline":"Agorama","description":"Agorama main home page.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
+<link rel="stylesheet" href="/assets/main.css">
+  
+  
+
+
+
+
+
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title glitch-link" rel="author" href="/">
@@ -36,14 +45,16 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link navLinks glitch-link" href="/about/"><span class="glitch">
-              About
-            </span></a><a class="page-link navLinks glitch-link" href="/projects/"><span class="glitch">
+        <div class="trigger"><a class="page-link navLinks glitch-link" href="/projects/"><span class="glitch">
               Projects
+            </span></a><a class="page-link navLinks glitch-link" href="/projects/artist-res/"><span class="glitch">
+              Residencies
+            </span></a><a class="page-link navLinks glitch-link" href="/projects/education/"><span class="glitch">
+              Workshops
             </span></a><a class="page-link navLinks glitch-link" href="http://amapad.bot.nu/"><span class="glitch">
-              Texts
-            </span></a><a class="page-link navLinks glitch-link" href="/resources/"><span class="glitch">
-              Resources
+              Pad
+            </span></a><a class="page-link navLinks glitch-link" href="/about/"><span class="glitch">
+              About
             </span></a><a class="page-link navLinks glitch-link" href="/contact/"><span class="glitch">
               Contact
             </span></a></div>
@@ -55,6 +66,86 @@
       <div class="wrapper">
         <div class="home"><h2 id="pad">PAD</h2>
 <ul class="post-list">
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2019/04/27/p2pwebjam2.html">
+                  
+                    <img src="/img/webjam2/wide.jpg" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Apr 27, 2019</span>
+                  <h3>
+                    <a class="post-link" href="/education/2019/04/27/p2pwebjam2.html">
+                      <span class="glitch">
+                      p2p Web Jam 2
+                      </span>
+                    </a>
+                  </h3>Turning Raspberry pi into Homebase p2p web server</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2019/04/03/meetup-5.html">
+                  
+                    <img src="/img/meetup5/thurs3.png" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Apr 3, 2019</span>
+                  <h3>
+                    <a class="post-link" href="/education/2019/04/03/meetup-5.html">
+                      <span class="glitch">
+                      Meetup#5 Server Co-op Stage 2
+                      </span>
+                    </a>
+                  </h3><p>Since July 2018, Agorama has been investigating the possibilities of peer-2-peer (p2p) network infrastructure, while striving to establish a distributive autonomous network of platforms for creative exploration.</p>
+
+</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
+
+      </li>
+      
       <li>
 
                 <!-- Thumbnail insertion -->
@@ -75,10 +166,22 @@
                       </span>
                     </a>
                   </h3>Getting Started with the Raspberry Pi</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -102,10 +205,22 @@
                       </span>
                     </a>
                   </h3>Working with RPI and Photoresistors</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -129,10 +244,22 @@
                       </span>
                     </a>
                   </h3>Working with RPI and Motion Sensors</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -156,10 +283,22 @@
                       </span>
                     </a>
                   </h3>Working with RPI and Heart Sensors</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -183,10 +322,22 @@
                       </span>
                     </a>
                   </h3>Working with RPI and Temperature Sesnors</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -210,10 +361,22 @@
                       </span>
                     </a>
                   </h3>Working with RPI and Websockets</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                    
+                    <a class="categories" href="/tag/raspberry-pi">raspberry-pi</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -237,10 +400,97 @@
                       </span>
                     </a>
                   </h3>How to interpret a psychopath</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/ML">ML</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2019/01/24/webjam-1.html">
+                  
+                    <img src="/img/jam1/work.png" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Jan 24, 2019</span>
+                  <h3>
+                    <a class="post-link" href="/education/2019/01/24/webjam-1.html">
+                      <span class="glitch">
+                      p2p Webjam#1 Summary
+                      </span>
+                    </a>
+                  </h3>During 19 and 20th January 2019 we held an open workshop for anyone interested in experimenting with and developing p2p web.</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2018/12/18/meetup3.html">
+                  
+                    <img src="/img/600x450-3.jpeg" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Dec 18, 2018</span>
+                  <h3>
+                    <a class="post-link" href="/education/2018/12/18/meetup3.html">
+                      <span class="glitch">
+                      Meetup#3 Samiz Dat and Pinning RPIS
+                      </span>
+                    </a>
+                  </h3>At our last meetup of the year we wanted to share some of the prototypes we have been making</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
 
       </li>
       
@@ -264,10 +514,22 @@
                       </span>
                     </a>
                   </h3>Tutorial notes for creating a localised Dat pinning service. Part of Agorama's Mozfest 2018 workshop.</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                    
+                    <a class="categories" href="/tag/code">code</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
 
       </li>
       
@@ -291,10 +553,97 @@
                       </span>
                     </a>
                   </h3>How to build a lie detector with Arduino</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/IoT">IoT</a>
+                  
+                </span>
 
                 
                 <hr style="margin-top: 1rem;">
                 
+
+
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2018/11/02/meetup2-mozfest.html">
+                  
+                    <img src="/img/moztweet.png" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Nov 2, 2018</span>
+                  <h3>
+                    <a class="post-link" href="/education/2018/11/02/meetup2-mozfest.html">
+                      <span class="glitch">
+                      Scuttlebutt-haloween-hackathon &amp; Mozfest
+                      </span>
+                    </a>
+                  </h3>Pictures and Notes from ScuttleButt Session</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
+
+      </li>
+      
+      <li>
+
+                <!-- Thumbnail insertion -->
+                <div>
+                  <a class="post-link" href="/education/2018/09/22/meet-up1.html">
+                  
+                    <img src="/img/thurs2.jpg" style="height: 280px" />
+                  
+                  </a>
+                </div>
+
+                <!-- Rest of Post listing insertion -->
+                <div><span class="post-meta">Sep 22, 2018</span>
+                  <h3>
+                    <a class="post-link" href="/education/2018/09/22/meet-up1.html">
+                      <span class="glitch">
+                      p2p web meet-up on Thursday 20 Sep
+                      </span>
+                    </a>
+                  </h3>Pictures and Notes from 1st Meet-up</div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/web">web</a>
+                  
+                    
+                    <a class="categories" href="/tag/p2p">p2p</a>
+                  
+                </span>
+
+                
+                <hr style="margin-top: 1rem;">
+                
+
+
 
       </li>
       
@@ -320,11 +669,21 @@
                   </h3><p>This is the first post for agorama’s new micro blog web-page…. To celebrate lets take in all of the different examples we can find of <em>hello world</em> programming proof of concepts Agorama will be using….</p>
 
 </div>
+                <br>
+                <span>
+                  
+                    
+                    <a class="categories" href="/tag/code">code</a>
+                  
+                </span>
 
                 
 
+
+
       </li>
       </ul>
+
 
     <p class="rss-subscribe">subscribe <a href="/feed.xml"><span class="glitch">via RSS</span></a></p></div>
 
