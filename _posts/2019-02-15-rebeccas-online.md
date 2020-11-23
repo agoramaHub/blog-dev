@@ -1,11 +1,11 @@
 ---
-title: Rebecca's Flat
+title: Welcome to Rebecca's Flat!
 date: 2019-02-15 12:30:00 Z
 categories:
-- artist-res
+  - artist-res
 layout: post
 excerpt: Our Flat in the old East End...
-thumbnail: "/img/rebeccas/-6.jpg"
+thumbnail: /img/rebeccas/-6.jpg
 ---
 
 ## Rebecca's flat
