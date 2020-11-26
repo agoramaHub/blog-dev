@@ -20,7 +20,7 @@ layout: default
                 <div>
                   <a class="post-link" href="{{ post.url | relative_url }}">
                   {% if post.thumbnail %}
-                    <img src="{{ post.thumbnail }}" style="height: 280px" />
+                    <img src="{{ post.thumbnail }}" style="width: 100%" />
                   {% else %}
                     <img src="/img/thumbnail/generic.png" style="height: 280px" />
                   {% endif %}
@@ -45,10 +45,10 @@ layout: default
                 <br>
                 <span>
                   {% for tag in post.tags %}
-                    {% capture tag_name %}{{ tag }}{% endcapture %}
-                    <a class="categories" href="/tag/{{ tag_name }}.html">{{ tag_name }}</a>
-                  {% endfor %}
-                </span>
+                  {% capture tag_name %}{{ tag }}{% endcapture %}
+                  <a class="categories" href="/tag/{{ tag_name }}.html">{{ tag_name }}</a>
+                {% endfor %}
+              </span>
 
                 {% if post != site.categories.education.last %}
                 <hr style="margin-top: 1rem;">

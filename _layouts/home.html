@@ -20,7 +20,7 @@ layout: default
         <div>
           <a class="post-link" href="{{ post.url | relative_url }}">
           {% if post.thumbnail %}
-            <img src="{{ post.thumbnail }}" style="height: 280px" />
+            <img src="{{ post.thumbnail }}" style="width: 100%" />
           {% else %}
             <img src="/img/thumbnail/generic.png" style="height: 280px" />
           {% endif %}

@@ -18,14 +18,14 @@ Boiler plate for original slpash page content layout
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 <article class="post">
-  
+  <div class="slideshow-carousel">
   {% slider 480 captions %}
   ![Anna working in our Studio](img/index/home-1.jpeg)
   ![Geltung Validity Perception of A Natural Right | 2017](img/index/geltung.jpg)
   ![Server Co-op Meet-up | 2018](img/index/co-op.jpg)
   ![Sockpuppetry | 2019](img/index/sockpuppetry.jpg)
 {% endslider %}
-
+</div>
 <div class="post-content">
   <br>
   {{ content }}
@@ -33,9 +33,9 @@ Boiler plate for original slpash page content layout
 <header class="post-header">
   <h1 class="post-title">{{ page.title | escape }}</h1>
   
-    {% for category in site.categories %}
+    <!-- {% for category in site.categories %}
     <a class="categories" href="/projects/{{ category | first }}">{{category|first}}</a>
-    {% endfor %}   
+    {% endfor %}    -->
 </header>
 
   <!-- <hr> -->
@@ -75,6 +75,7 @@ Boiler plate for original slpash page content layout
         {%- if post.categories -%}
         {%- endif -%}
         <a class= "categories" href="/projects/{{ post.categories  }}">{{ post.categories  }}</a>
+        <hr style="margin-top: 1rem;">
 </article>
 
 <body>

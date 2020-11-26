@@ -11,13 +11,11 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Agorama main home page." />
 <meta property="og:description" content="Agorama main home page." />
-<link rel="canonical" href="http://localhost:4000/http:/amapad.http01.com" />
-<meta property="og:url" content="http://localhost:4000/http:/amapad.http01.com" />
 <meta property="og:site_name" content="Agorama" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Agorama" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/http:/amapad.http01.com","headline":"Agorama","description":"Agorama main home page.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"description":"Agorama main home page.","@type":"WebPage","url":"/http:/amapad.http01.com","headline":"Agorama","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css">
   
@@ -28,7 +26,7 @@
 
 
 
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Agorama" /></head>
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Agorama" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title glitch-link" rel="author" href="/">
@@ -72,7 +70,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/04/27/p2pwebjam2.html">
                   
-                    <img src="/img/webjam2/wide.jpg" style="height: 280px" />
+                    <img src="/img/webjam2/wide.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -89,13 +87,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -111,7 +109,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/04/03/meetup-5.html">
                   
-                    <img src="/img/meetup5/thurs3.png" style="height: 280px" />
+                    <img src="/img/meetup5/thurs3.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -130,13 +128,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -152,7 +150,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/18/rpi-tutorial.html">
                   
-                    <img src="/images/rpi.png" style="height: 280px" />
+                    <img src="/images/rpi.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -169,13 +167,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -191,7 +189,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/18/light-sensor.html">
                   
-                    <img src="/images/light-sensor.jpg" style="height: 280px" />
+                    <img src="/images/light-sensor.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -208,13 +206,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -230,7 +228,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/18/motion-sensor.html">
                   
-                    <img src="/images/motion-sensor.jpg" style="height: 280px" />
+                    <img src="/images/motion-sensor.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -247,13 +245,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -269,7 +267,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/16/heart-sensor-rpi.html">
                   
-                    <img src="/img/pulsesensor-pins.png" style="height: 280px" />
+                    <img src="/img/pulsesensor-pins.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -286,13 +284,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -308,7 +306,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/16/temp-sensor.html">
                   
-                    <img src="/images/temp-sensor-pic-small.jpg" style="height: 280px" />
+                    <img src="/images/temp-sensor-pic-small.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -325,13 +323,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -347,7 +345,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/03/15/websockets.html">
                   
-                    <img src="/images/websocket.png" style="height: 280px" />
+                    <img src="/images/websocket.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -364,13 +362,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                    
-                    <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/raspberry-pi.html">raspberry-pi</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -386,7 +384,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/02/25/psychometrics-workshop.html">
                   
-                    <img src="/img/PAS-Journal.jpg" style="height: 280px" />
+                    <img src="/img/PAS-Journal.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -403,10 +401,10 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/ML.html">ML</a>
                   
-                </span>
+                  <a class="categories" href="/tag/ML.html">ML</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -422,7 +420,7 @@
                 <div>
                   <a class="post-link" href="/education/2019/01/24/webjam-1.html">
                   
-                    <img src="/img/jam1/work.png" style="height: 280px" />
+                    <img src="/img/jam1/work.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -439,13 +437,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -461,7 +459,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/12/18/meetup3.html">
                   
-                    <img src="/img/600x450-3.jpeg" style="height: 280px" />
+                    <img src="/img/600x450-3.jpeg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -478,13 +476,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -500,7 +498,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/11/07/dat-server-node-tutorial.html">
                   
-                    <img src="/img/webjam2/3.jpeg" style="height: 280px" />
+                    <img src="/img/webjam2/3.jpeg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -517,13 +515,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
                   
-                    
-                    <a class="categories" href="/tag/code.html">code</a>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/code.html">code</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -539,7 +537,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/11/07/building-a-polygraph.html">
                   
-                    <img src="/img/lie-detector-test1.jpg" style="height: 280px" />
+                    <img src="/img/lie-detector-test1.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -556,10 +554,10 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/IoT.html">IoT</a>
                   
-                </span>
+                  <a class="categories" href="/tag/IoT.html">IoT</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -575,7 +573,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/11/02/meetup2-mozfest.html">
                   
-                    <img src="/img/moztweet.png" style="height: 280px" />
+                    <img src="/img/moztweet.png" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -592,13 +590,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -614,7 +612,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/09/22/meet-up1.html">
                   
-                    <img src="/img/thurs2.jpg" style="height: 280px" />
+                    <img src="/img/thurs2.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -631,13 +629,13 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/web.html">web</a>
                   
-                    
-                    <a class="categories" href="/tag/p2p.html">p2p</a>
+                  <a class="categories" href="/tag/web.html">web</a>
+                
                   
-                </span>
+                  <a class="categories" href="/tag/p2p.html">p2p</a>
+                
+              </span>
 
                 
                 <hr style="margin-top: 1rem;">
@@ -653,7 +651,7 @@
                 <div>
                   <a class="post-link" href="/education/2018/07/01/hello-world.html">
                   
-                    <img src="/images/wide3.jpg" style="height: 280px" />
+                    <img src="/images/wide3.jpg" style="width: 100%" />
                   
                   </a>
                 </div>
@@ -672,10 +670,10 @@
                 <br>
                 <span>
                   
-                    
-                    <a class="categories" href="/tag/code.html">code</a>
                   
-                </span>
+                  <a class="categories" href="/tag/code.html">code</a>
+                
+              </span>
 
                 
 
