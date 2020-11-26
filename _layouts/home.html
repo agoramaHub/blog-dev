@@ -13,7 +13,7 @@ layout: default
 
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {% if post.categories contains 'server-co-op' %}
+      {% if post.categories contains 'projects' %}
       <li>
 
         <!-- Thumbnail insertion -->
@@ -42,6 +42,12 @@ layout: default
             {{ post.excerpt }}
           {%- endif -%}
         </div>
+        <span>
+          {% for tag in post.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a class="categories" href="/tag/{{ tag_name }}.html">{{ tag_name }}</a>
+          {% endfor %}
+        </span>
 
         {% if post != site.categories.server-co-op.last %}
         <hr style="margin-top: 1rem;">
