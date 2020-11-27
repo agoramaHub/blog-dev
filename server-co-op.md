@@ -1,7 +1,7 @@
 ---
 title: Server Co-op
 permalink: "/projects/server-co-op/"
-layout: home
+layout: page
 category: server-co-op
 ---
 

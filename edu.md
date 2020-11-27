@@ -1,7 +1,7 @@
 ---
 title: Workshops, Lectures & Tutorials
 permalink: "/projects/education/"
-layout: home2
+layout: edu
 category: education
 ---
 

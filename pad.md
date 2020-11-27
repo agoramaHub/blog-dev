@@ -1,6 +1,6 @@
 ---
 permalink: http%3A//amapad.http01.com
-layout: home2
+layout: page
 category: Texts
 ---
 
