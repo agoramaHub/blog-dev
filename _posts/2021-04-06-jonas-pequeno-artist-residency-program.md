@@ -3,7 +3,7 @@ title: Jonas Pequeno Artist residency program
 date: 2021-04-06T15:17:06.957Z
 categories: residency
 tags: artist-res
-layout: blog
+layout: post
 thumbnail: /img/untitledblurry.png
 excerpt: Residency Reflections on Jonas Pequeno's residency 'Gardens in Computers'
 ---
