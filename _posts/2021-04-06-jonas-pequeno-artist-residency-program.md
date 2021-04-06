@@ -1,7 +1,7 @@
 ---
 title: Jonas Pequeno Artist residency program
 date: 2021-04-06T15:17:06.957Z
-categories: residency
+categories: artist-res
 tags: artist-res
 layout: post
 thumbnail: /img/untitledblurry.png
