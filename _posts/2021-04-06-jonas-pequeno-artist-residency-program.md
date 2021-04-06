@@ -6,6 +6,8 @@ tags: artist-res
 layout: blog
 thumbnail: /img/untitledblurry.png
 ---
+excerpt: Agorama's residency reflection focusing onJonas Pequeno Artist residency program
+
 Jonas Pequeno Artist residency program 
 Gardens in Computers.  
 
