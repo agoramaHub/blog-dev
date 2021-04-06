@@ -5,9 +5,12 @@ categories: residency
 tags: artist-res
 layout: blog
 thumbnail: /img/untitledblurry.png
+excerpt: Residency Reflections on Jonas Pequeno's residency 'Gardens in Computers'
 ---
-Jonas Pequeno Artist residency program 
-Gardens in Computers.  
+
+![alt-text](/img/untitledblurry.png)
+
+Residency Reflections on Jonas Pequeno's residency 'Gardens in Computers'
 
 Jonas has taken part in the Agorama X Offsite Residency program using the time to develop his archival practice and explore the application of databases in machine learning to reflect on the production of knowledge and representation in A.I. Jonas exerts the limits of language as an interface for classification and cascades through the parameters of logic used within A.I. architecture, exploring the cracks in semantics between human and computational reason to fall into absurd realms of reality. 
 
